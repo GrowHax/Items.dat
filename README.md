@@ -1,2 +1,2 @@
 # Items.dat
-Items.dat + Decrypted Items.dat
+Items.dat Formatted + Decrypted by Yuhkil

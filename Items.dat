@@ -1,6 +1,7 @@
-## Date: 10/22/2023 ##
+## Date: 11/1/2023 ##
 ####### Decrypted/Formatted by Yuhkil ########
-########## Version 4.39 Items.dat ##########
+########## Version 4.40 Items.dat ##########
+
 
 0 Blank
 1 Blank Seed
@@ -6228,8 +6229,8 @@
 6307 Bubble Machine Seed
 6308 Beach Ball
 6309 Beach Ball Seed
-6310 Watermelon
-6311 Watermelon Seed
+6310 Watermelon Slice
+6311 Watermelon Slice Seed
 6312 Phoenix Sword
 6313 Phoenix Sword Seed
 6314 Crushed Ice
@@ -10729,9 +10730,9 @@
 10867 DUMB G4G Diamond Seed
 10868 DUMB G4G Crate Pack
 10869 DUMB G4G Crate Pack Seed
-10871 Ad Block 4x3 Seed
+10871 Ad Block 2x3 Seed
 10873 Ad Block 3x2 Seed
-10875 Ad Block 7x1 Seed
+10875 Ad Block 6x1 Seed
 10877 Ad Control Block Seed
 10878 Radical Rider
 10879 Radical Rider Seed
@@ -12399,8 +12400,8 @@
 12561 Bouncer Pants Seed
 12562 Bouncer Shoes
 12563 Bouncer Shoes Seed
-12564 null_item12564
-12565 null_item12564 Seed
+12564 Gatling Gum
+12565 Gatling Gum Seed
 12566 Garuda Chest
 12567 Garuda Chest Seed
 12568 Golden Garuda Chest
@@ -12530,24 +12531,24 @@
 12695 Aqua Trident Statue Seed
 12696 Wyvern Statue Block
 12697 Wyvern Statue Block Seed
-12698 Piano Block
-12699 Piano Block Seed
-12700 Bling Block
-12701 Bling Block Seed
+12698 Piano Platform
+12699 Piano Platform Seed
+12700 Bling Background
+12701 Bling Background Seed
 12702 Lucid Sculpture Block
 12703 Lucid Sculpture Block Seed
 12704 Sakura Sushi Block
 12705 Sakura Sushi Block Seed
-12706 Neon Party Machine Block
-12707 Neon Party Machine Block Seed
-12708 Robot Lord Machine Block
-12709 Robot Lord Machine Block Seed
+12706 Neon Party Machine Background
+12707 Neon Party Machine Background Seed
+12708 Robot Lord Machine Wallpaper
+12709 Robot Lord Machine Wallpaper Seed
 12710 Shattered Arch Block
 12711 Shattered Arch Block Seed
-12712 Super Block
-12713 Super Block Seed
-12714 Starfire Block
-12715 Starfire Block Seed
+12712 Super Background
+12713 Super Background Seed
+12714 Starfire Background
+12715 Starfire Background Seed
 12716 Kanji Canvas Block
 12717 Kanji Canvas Block Seed
 12718 Lightning Bottle Block
@@ -12556,8 +12557,8 @@
 12721 Minokawa Statue Block Seed
 12722 Lightning Umbrella Checkpoint
 12723 Lightning Umbrella Checkpoint Seed
-12724 EQ Block
-12725 EQ Block Seed
+12724 EQ Platform
+12725 EQ Platform Seed
 12726 Sacred Scarf Block
 12727 Sacred Scarf Block Seed
 12728 Party Plume Mask
@@ -13247,50 +13248,50 @@
 13415 Royal Action Hero Helicopter Seed
 13416 Time Gauntlet
 13417 Time Gauntlet Seed
-13418 null_item13418
-13419 null_item13418 Seed
-13420 null_item13420
-13421 null_item13420 Seed
-13422 null_item13422
-13423 null_item13422 Seed
-13424 null_item13424
-13425 null_item13424 Seed
-13426 null_item13426
-13427 null_item13426 Seed
-13428 null_item13428
-13429 null_item13428 Seed
-13430 null_item13430
-13431 null_item13430 Seed
-13432 null_item13432
-13433 null_item13432 Seed
-13434 null_item13434
-13435 null_item13434 Seed
-13436 null_item13436
-13437 null_item13436 Seed
-13438 null_item13438
-13439 null_item13438 Seed
-13440 null_item13440
-13441 null_item13440 Seed
-13442 null_item13442
-13443 null_item13442 Seed
-13444 null_item13444
-13445 null_item13444 Seed
-13446 null_item13446
-13447 null_item13446 Seed
-13448 null_item13448
-13449 null_item13448 Seed
-13450 null_item13450
-13451 null_item13450 Seed
-13452 null_item13452
-13453 null_item13452 Seed
-13454 null_item13454
-13455 null_item13454 Seed
-13456 null_item13456
-13457 null_item13456 Seed
-13458 null_item13458
-13459 null_item13458 Seed
-13460 null_item13460
-13461 null_item13460 Seed
+13418 Golden Fairy Light Wings
+13419 Golden Fairy Light Wings Seed
+13420 Macho Mustache
+13421 Macho Mustache Seed
+13422 Chili Con Charme
+13423 Chili Con Charme Seed
+13424 Aztec Crown
+13425 Aztec Crown Seed
+13426 Avocado Advocate
+13427 Avocado Advocate Seed
+13428 Volcanic Pauldrons
+13429 Volcanic Pauldrons Seed
+13430 Aquatic Volcanic Pauldrons
+13431 Aquatic Volcanic Pauldrons Seed
+13432 Aquatic Volcanic Cape
+13433 Aquatic Volcanic Cape Seed
+13434 Aquatic Volcanic Wings
+13435 Aquatic Volcanic Wings Seed
+13436 Puerto Growtopia House - Blue
+13437 Puerto Growtopia House - Blue Seed
+13438 Puerto Growtopia House - Yellow
+13439 Puerto Growtopia House - Yellow Seed
+13440 Nacho Fidget Spinner
+13441 Nacho Fidget Spinner Seed
+13442 Totem Pole
+13443 Totem Pole Seed
+13444 Growchimilco Boat
+13445 Growchimilco Boat Seed
+13446 Cactus Pot Block
+13447 Cactus Pot Block Seed
+13448 Serape Shirt
+13449 Serape Shirt Seed
+13450 Tehuana Dress
+13451 Tehuana Dress Seed
+13452 Sleeved Poncho
+13453 Sleeved Poncho Seed
+13454 Red Volcanic Hat
+13455 Red Volcanic Hat Seed
+13456 Blue Volcanic Hat
+13457 Blue Volcanic Hat Seed
+13458 Spirit Wings
+13459 Spirit Wings Seed
+13460 Royal Spirit Wings
+13461 Royal Spirit Wings Seed
 13462 Silk Face Scarf
 13463 Silk Face Scarf Seed
 13464 Toga
@@ -13301,3 +13302,562 @@
 13469 Unicorn Wallpaper Seed
 13470 Healing Station Checkpoint
 13471 Healing Station Checkpoint Seed
+13472 Friendly Donkey Block
+13473 Friendly Donkey Block Seed
+13474 Black Tie Baller Hat
+13475 Black Tie Baller Hat Seed
+13476 Black Tie Baller Monocle
+13477 Black Tie Baller Monocle Seed
+13478 Black Tie Baller Coat
+13479 Black Tie Baller Coat Seed
+13480 Black Tie Baller Pants
+13481 Black Tie Baller Pants Seed
+13482 Black Tie Baller Shoes
+13483 Black Tie Baller Shoes Seed
+13484 Black Tie Baller Cane
+13485 Black Tie Baller Cane Seed
+13486 Pineapple Bussin' Sword
+13487 Pineapple Bussin' Sword Seed
+13488 Kiwi Bussin' Sword
+13489 Kiwi Bussin' Sword Seed
+13490 Papaya Bussin' Sword
+13491 Papaya Bussin' Sword Seed
+13492 Watermelon Bussin' Sword
+13493 Watermelon Bussin' Sword Seed
+13494 Dragon Fruit Bussin' Sword
+13495 Dragon Fruit Bussin' Sword Seed
+13496 Porcupineapple Pair
+13497 Porcupineapple Pair Seed
+13498 Fruit Brigade
+13499 Fruit Brigade Seed
+13500 Dragon Fruit Dragon
+13501 Dragon Fruit Dragon Seed
+13502 Pineapple Pizza Piece
+13503 Pineapple Pizza Piece Seed
+13504 Loop of Fruits
+13505 Loop of Fruits Seed
+13506 Maddening Mandarin
+13507 Maddening Mandarin Seed
+13508 Banana Onesie
+13509 Banana Onesie Seed
+13510 Fresh Watermelon Block
+13511 Fresh Watermelon Block Seed
+13512 Watermelon Block
+13513 Watermelon Block Seed
+13514 Fresh Papaya Block
+13515 Fresh Papaya Block Seed
+13516 Papaya Block
+13517 Papaya Block Seed
+13518 Fresh Kiwi Block
+13519 Fresh Kiwi Block Seed
+13520 Kiwi Block
+13521 Kiwi Block Seed
+13522 Fresh Dragon Fruit Block
+13523 Fresh Dragon Fruit Block Seed
+13524 Dragon Fruit Block
+13525 Dragon Fruit Block Seed
+13526 Fresh Pineapple Block
+13527 Fresh Pineapple Block Seed
+13528 Fruit Warrior Hair - Pineapple Clan
+13529 Fruit Warrior Hair - Pineapple Clan Seed
+13530 Fruit Warrior Hair - Dragon Fruit Clan
+13531 Fruit Warrior Hair - Dragon Fruit Clan Seed
+13532 Fruit Warrior Hair - Kiwi Clan
+13533 Fruit Warrior Hair - Kiwi Clan Seed
+13534 Fruit Warrior Hair - Papaya Clan
+13535 Fruit Warrior Hair - Papaya Clan Seed
+13536 Fruit Warrior Hair - Watermelon Clan
+13537 Fruit Warrior Hair - Watermelon Clan Seed
+13538 Watermelon
+13539 Watermelon Seed
+13540 Kiwi
+13541 Kiwi Seed
+13542 Papaya
+13543 Papaya Seed
+13544 Dragon Fruit
+13545 Dragon Fruit Seed
+13546 Tropical Merchant
+13547 Tropical Merchant Seed
+13548 Super Fruit Mixing Machine
+13549 Super Fruit Mixing Machine Seed
+13550 Tropical Fruit Crate
+13551 Tropical Fruit Crate Seed
+13552 Mighty Anchor
+13553 Mighty Anchor Seed
+13554 Royal Mighty Anchor
+13555 Royal Mighty Anchor Seed
+13556 Happy Popsicle Mask
+13557 Happy Popsicle Mask Seed
+13558 Legendary Clash Key - Series 6
+13559 Legendary Clash Key - Series 6 Seed
+13560 Fabulous Shades
+13561 Fabulous Shades Seed
+13562 Fabulous Suit
+13563 Fabulous Suit Seed
+13564 Fabulous Ride
+13565 Fabulous Ride Seed
+13566 Neptune's Armor
+13567 Neptune's Armor Seed
+13568 Fruit Warrior Shirt
+13569 Fruit Warrior Shirt Seed
+13570 Fruit Warrior Pants
+13571 Fruit Warrior Pants Seed
+13572 Phoenix Sickles
+13573 Phoenix Sickles Seed
+13575 Deluxe World Spray Seed
+13576 Pet Pearl
+13577 Pet Pearl Seed
+13578 Pearl Sparkled Shield
+13579 Pearl Sparkled Shield Seed
+13580 Pearl Shark Crown
+13581 Pearl Shark Crown Seed
+13582 Cucumber Eyes
+13583 Cucumber Eyes Seed
+13584 Pearl Floral Lei
+13585 Pearl Floral Lei Seed
+13586 Pearl Castle Stone
+13587 Pearl Castle Stone Seed
+13588 Pearl Castle Stone Background
+13589 Pearl Castle Stone Background Seed
+13590 Pearl Castle Turret
+13591 Pearl Castle Turret Seed
+13592 Pearl Moyaimorph
+13593 Pearl Moyaimorph Seed
+13594 Towel Turban
+13595 Towel Turban Seed
+13596 Beach Party Training Ticket
+13597 Beach Party Training Ticket Seed
+13598 Bronze Pearl Chest
+13599 Bronze Pearl Chest Seed
+13600 World Cup Winner's Jersey 2022
+13601 World Cup Winner's Jersey 2022 Seed
+13602 Sandtopian
+13603 Sandtopian Seed
+13604 Wind Surfer
+13605 Wind Surfer Seed
+13606 Ultraviolet Sword
+13607 Ultraviolet Sword Seed
+13608 Leaf Wings
+13609 Leaf Wings Seed
+13610 Leaf Propeller
+13611 Leaf Propeller Seed
+13612 Playful Popsicle
+13613 Playful Popsicle Seed
+13614 Summer Face Paint
+13615 Summer Face Paint Seed
+13616 Sun Headband
+13617 Sun Headband Seed
+13618 Summer Print Boardshorts
+13619 Summer Print Boardshorts Seed
+13620 Summer Print Shirt
+13621 Summer Print Shirt Seed
+13622 Bouncy Wall
+13623 Bouncy Wall Seed
+13624 Bouncy Turret
+13625 Bouncy Turret Seed
+13626 Slippers in Sand
+13627 Slippers in Sand Seed
+13628 Sand Bucket
+13629 Sand Bucket Seed
+13630 null_item13630
+13631 null_item13630 Seed
+13632 Soulbinder
+13633 Soulbinder Seed
+13634 Axolotl Bucket Hat
+13635 Axolotl Bucket Hat Seed
+13636 Steampunk Lock
+13637 Steampunk Lock Seed
+13638 Lembuswana Trident
+13639 Lembuswana Trident Seed
+13640 Weather Machine - Realm of Spirits
+13641 Weather Machine - Realm of Spirits Seed
+13642 Mythical Lembuswana
+13643 Mythical Lembuswana Seed
+13644 Scarlet Rider's Bike
+13645 Scarlet Rider's Bike Seed
+13646 Bamboo Arc
+13647 Bamboo Arc Seed
+13648 Bamboo Bridge
+13649 Bamboo Bridge Seed
+13650 Lembuswana Crown
+13651 Lembuswana Crown Seed
+13652 Lembuswana Mask
+13653 Lembuswana Mask Seed
+13654 Lembuswana Chestplate
+13655 Lembuswana Chestplate Seed
+13656 Lembuswana Tunic
+13657 Lembuswana Tunic Seed
+13658 Lembuswana Feet
+13659 Lembuswana Feet Seed
+13660 Lembuswana Statue
+13661 Lembuswana Statue Seed
+13662 Pocong Statue
+13663 Pocong Statue Seed
+13664 Sacred Temple
+13665 Sacred Temple Seed
+13666 Scarlet Rider's Mask
+13667 Scarlet Rider's Mask Seed
+13668 Scarlet Rider's Armor
+13669 Scarlet Rider's Armor Seed
+13670 Scarlet Rider's Pants
+13671 Scarlet Rider's Pants Seed
+13672 Scarlet Rider's Boots
+13673 Scarlet Rider's Boots Seed
+13674 Neon Creator Block
+13675 Neon Creator Block Seed
+13676 Designer Swag Shades
+13677 Designer Swag Shades Seed
+13678 Designer Swag Shirt
+13679 Designer Swag Shirt Seed
+13680 Eldritch Flame Aura
+13681 Eldritch Flame Aura Seed
+13682 Flare Fedora
+13683 Flare Fedora Seed
+13684 Riding Toilet
+13685 Riding Toilet Seed
+13686 Scarf of Prometheus
+13687 Scarf of Prometheus Seed
+13688 School Bag
+13689 School Bag Seed
+13690 Weather Machine - Black Hole
+13691 Weather Machine - Black Hole Seed
+13692 Wings of Dune
+13693 Wings of Dune Seed
+13694 Yellow Umbrella
+13695 Yellow Umbrella Seed
+13696 Hot Dog Hat
+13697 Hot Dog Hat Seed
+13698 Pet Doodle
+13699 Pet Doodle Seed
+13700 Pet Moyaimorph
+13701 Pet Moyaimorph Seed
+13702 Pet Platypus
+13703 Pet Platypus Seed
+13704 Pet Stinky Onion
+13705 Pet Stinky Onion Seed
+13706 Pet Twin Cherries
+13707 Pet Twin Cherries Seed
+13708 Crown of Chaos
+13709 Crown of Chaos Seed
+13710 Dark Magic Katana
+13711 Dark Magic Katana Seed
+13712 Dirt Lord's Scepter
+13713 Dirt Lord's Scepter Seed
+13714 Hyperlight Wings
+13715 Hyperlight Wings Seed
+13716 Soundwave Helm
+13717 Soundwave Helm Seed
+13718 Royal Soundwave Helm
+13719 Royal Soundwave Helm Seed
+13720 Remove Favorites
+13721 Remove Favorites Seed
+13722 Anime Bowtail
+13723 Anime Bowtail Seed
+13724 Dark Denim Jacket
+13725 Dark Denim Jacket Seed
+13726 Death Top Stompers
+13727 Death Top Stompers Seed
+13728 Denim Shorts
+13729 Denim Shorts Seed
+13730 Diamond Lock Mask
+13731 Diamond Lock Mask Seed
+13732 Distinguished Straw Hat
+13733 Distinguished Straw Hat Seed
+13734 Engineer's Goggles
+13735 Engineer's Goggles Seed
+13736 Engineer's Helmet
+13737 Engineer's Helmet Seed
+13738 Fez
+13739 Fez Seed
+13740 Fisherman's Overalls
+13741 Fisherman's Overalls Seed
+13742 Glitter Block - Gold
+13743 Glitter Block - Gold Seed
+13744 Glitter Block - Pink
+13745 Glitter Block - Pink Seed
+13746 Glitter Block - Silver
+13747 Glitter Block - Silver Seed
+13748 Granite Block - Blue
+13749 Granite Block - Blue Seed
+13750 Granite Block - Green
+13751 Granite Block - Green Seed
+13752 Granite Block - Red
+13753 Granite Block - Red Seed
+13754 Jujutsu Hair
+13755 Jujutsu Hair Seed
+13756 Jujutsu Pants
+13757 Jujutsu Pants Seed
+13758 Jujutsu Scarf
+13759 Jujutsu Scarf Seed
+13760 Jujutsu Shirt
+13761 Jujutsu Shirt Seed
+13762 Jujutsu Shoes
+13763 Jujutsu Shoes Seed
+13764 Kitty Headphones
+13765 Kitty Headphones Seed
+13766 Koala Hood
+13767 Koala Hood Seed
+13768 Mossy Mask
+13769 Mossy Mask Seed
+13770 Nerd Sweater
+13771 Nerd Sweater Seed
+13772 Pirate Bandana - Black
+13773 Pirate Bandana - Black Seed
+13774 Pirate Bandana - Blue
+13775 Pirate Bandana - Blue Seed
+13776 Pirate Bandana - Red
+13777 Pirate Bandana - Red Seed
+13778 Prisoner Cap
+13779 Prisoner Cap Seed
+13780 Prisoner Suit
+13781 Prisoner Suit Seed
+13782 Raccoon Hood
+13783 Raccoon Hood Seed
+13784 Roughed-up Anime Hair
+13785 Roughed-up Anime Hair Seed
+13786 Star Night Hoodie
+13787 Star Night Hoodie Seed
+13788 Stone Mask
+13789 Stone Mask Seed
+13790 Stylish Sunglasses
+13791 Stylish Sunglasses Seed
+13792 That 70's Jacket
+13793 That 70's Jacket Seed
+13794 That 70's Pants
+13795 That 70's Pants Seed
+13796 The Chosen One Hair
+13797 The Chosen One Hair Seed
+13798 The Chosen One Pants
+13799 The Chosen One Pants Seed
+13800 The Chosen One Robes
+13801 The Chosen One Robes Seed
+13802 World Lock Neon Sign
+13803 World Lock Neon Sign Seed
+13804 Camera Log - Enter
+13805 Camera Log - Enter Seed
+13806 Camera Log - Exit
+13807 Camera Log - Exit Seed
+13808 Camera Log - Pickup
+13809 Camera Log - Pickup Seed
+13810 Camera Log - Dropped
+13811 Camera Log - Dropped Seed
+13812 Camera Log - Vending Machine
+13813 Camera Log - Vending Machine Seed
+13814 Favorites
+13815 Favorites Seed
+13816 Trade-Scan
+13817 Trade-Scan Seed
+13818 Trade-Scan Credit
+13819 Trade-Scan Credit Seed
+13820 Ghost Hunter's Crate
+13821 Ghost Hunter's Crate Seed
+13822 Tabby Cat Slippers
+13823 Tabby Cat Slippers Seed
+13824 Aurorasaurus Rex
+13825 Aurorasaurus Rex Seed
+13826 Royal Aurorasaurus Rex
+13827 Royal Aurorasaurus Rex Seed
+13828 Soul Harvester's Scythe
+13829 Soul Harvester's Scythe Seed
+13830 Mantle of Chang'e
+13831 Mantle of Chang'e Seed
+13832 Balance Mooncake Pet
+13833 Balance Mooncake Pet Seed
+13834 Koi Lantern Kite
+13835 Koi Lantern Kite Seed
+13836 Lion Dancer Cape - Red
+13837 Lion Dancer Cape - Red Seed
+13838 Lion Dancer Cape - Golden
+13839 Lion Dancer Cape - Golden Seed
+13840 Lion Dancer Cape - Green
+13841 Lion Dancer Cape - Green Seed
+13842 Balance Shrub
+13843 Balance Shrub Seed
+13844 Purity Shrub
+13845 Purity Shrub Seed
+13846 Courage Shrub
+13847 Courage Shrub Seed
+13848 Decorative Shrine
+13849 Decorative Shrine Seed
+13850 Floating Lotus Flower
+13851 Floating Lotus Flower Seed
+13852 Pebbles Block
+13853 Pebbles Block Seed
+13854 Pebbles Background
+13855 Pebbles Background Seed
+13856 Stone Block
+13857 Stone Block Seed
+13858 Moon Hair Pin
+13859 Moon Hair Pin Seed
+13860 Prince Hair
+13861 Prince Hair Seed
+13862 Princess Hair
+13863 Princess Hair Seed
+13864 Lion Dancer Feet - Golden
+13865 Lion Dancer Feet - Golden Seed
+13866 Lion Dancer Pants - Golden
+13867 Lion Dancer Pants - Golden Seed
+13868 Lion Dancer Shirt - Golden
+13869 Lion Dancer Shirt - Golden Seed
+13870 Lion Dancer Mask - Golden
+13871 Lion Dancer Mask - Golden Seed
+13872 Lion Dancer Feet - Red
+13873 Lion Dancer Feet - Red Seed
+13874 Lion Dancer Pants - Red
+13875 Lion Dancer Pants - Red Seed
+13876 Lion Dancer Shirt - Red
+13877 Lion Dancer Shirt - Red Seed
+13878 Lion Dancer Mask - Red
+13879 Lion Dancer Mask - Red Seed
+13880 Lion Dancer Feet - Green
+13881 Lion Dancer Feet - Green Seed
+13882 Lion Dancer Pants - Green
+13883 Lion Dancer Pants - Green Seed
+13884 Lion Dancer Shirt - Green
+13885 Lion Dancer Shirt - Green Seed
+13886 Lion Dancer Mask - Green
+13887 Lion Dancer Mask - Green Seed
+13888 Harvest Seed Crate
+13889 Harvest Seed Crate Seed
+13890 Courage Mooncake
+13891 Courage Mooncake Seed
+13892 Basim
+13893 Basim Seed
+13894 Connor
+13895 Connor Seed
+13896 Kassandra
+13897 Kassandra Seed
+13898 Petals of Purity
+13899 Petals of Purity Seed
+13900 Royal Petals of Purity
+13901 Royal Petals of Purity Seed
+13902 Rebel Shades
+13903 Rebel Shades Seed
+13904 Basim's Hood
+13905 Basim's Hood Seed
+13906 Basim's Beard
+13907 Basim's Beard Seed
+13908 Basim's Vest
+13909 Basim's Vest Seed
+13910 Basim's Trousers
+13911 Basim's Trousers Seed
+13912 Basim's Boots
+13913 Basim's Boots Seed
+13914 Connor's Hood
+13915 Connor's Hood Seed
+13916 Connor's Vest
+13917 Connor's Vest Seed
+13918 Connor's Trousers
+13919 Connor's Trousers Seed
+13920 Connor's Boots
+13921 Connor's Boots Seed
+13922 Kassandra's Hair
+13923 Kassandra's Hair Seed
+13924 Kassandra's Armor
+13925 Kassandra's Armor Seed
+13926 Kassandra's Skirt
+13927 Kassandra's Skirt Seed
+13928 Kassandra's Sandals
+13929 Kassandra's Sandals Seed
+13930 Cosmic Force
+13931 Cosmic Force Seed
+13932 Heart of Diamond Crown
+13933 Heart of Diamond Crown Seed
+13934 Crack-a-lackin Kraken
+13935 Crack-a-lackin Kraken Seed
+13936 Soaring Beast
+13937 Soaring Beast Seed
+13938 Soulforge Wings
+13939 Soulforge Wings Seed
+13940 Synthwave Shoes
+13941 Synthwave Shoes Seed
+13942 Tornado Aura
+13943 Tornado Aura Seed
+13944 Heart of Diamond Dress
+13945 Heart of Diamond Dress Seed
+13946 Cosmic Force Armor
+13947 Cosmic Force Armor Seed
+13948 Crack-a-lackin Helm
+13949 Crack-a-lackin Helm Seed
+13950 Synthwave Shades
+13951 Synthwave Shades Seed
+13952 Soulforge Hair
+13953 Soulforge Hair Seed
+13954 Tornado Block
+13955 Tornado Block Seed
+13956 Soaring Beast's Nest
+13957 Soaring Beast's Nest Seed
+13958 null_item13958
+13959 null_item13958 Seed
+13960 Soaring Set Squares
+13961 Soaring Set Squares Seed
+13962 Creepy Chocolatier's Cane
+13963 Creepy Chocolatier's Cane Seed
+13964 Dark King's Crown
+13965 Dark King's Crown Seed
+13966 Monster Koach
+13967 Monster Koach Seed
+13968 Scorched Wings
+13969 Scorched Wings Seed
+13970 Spooky Stained Glass Scepter
+13971 Spooky Stained Glass Scepter Seed
+13972 Candlehead Hat
+13973 Candlehead Hat Seed
+13974 Gates Motel Sign
+13975 Gates Motel Sign Seed
+13976 Creepy Chocolatier's Cut
+13977 Creepy Chocolatier's Cut Seed
+13978 Creepy Chocolatier's Hat
+13979 Creepy Chocolatier's Hat Seed
+13980 Creepy Chocolatier's Robe
+13981 Creepy Chocolatier's Robe Seed
+13982 Creepy Chocolatier's Shoes
+13983 Creepy Chocolatier's Shoes Seed
+13984 Creepy Chocolatier's Spectacles
+13985 Creepy Chocolatier's Spectacles Seed
+13986 Dashing Devil Mask
+13987 Dashing Devil Mask Seed
+13988 Handsome Vampire Hair
+13989 Handsome Vampire Hair Seed
+13990 Haunted Puzzle Box
+13991 Haunted Puzzle Box Seed
+13992 Kooky Checkpoint
+13993 Kooky Checkpoint Seed
+13994 Elder Sigil
+13995 Elder Sigil Seed
+13996 Mimic Chest
+13997 Mimic Chest Seed
+13998 Stinky Ogre Ears
+13999 Stinky Ogre Ears Seed
+14000 Stone Demon Statue
+14001 Stone Demon Statue Seed
+14002 Cereal Thriller
+14003 Cereal Thriller Seed
+14004 Bloodmoon Wings
+14005 Bloodmoon Wings Seed
+14006 Royal Bloodmoon Wings
+14007 Royal Bloodmoon Wings Seed
+14008 Twisted Horns
+14009 Twisted Horns Seed
+14010 null_item14010
+14011 null_item14010 Seed
+14012 null_item14012
+14013 null_item14012 Seed
+14014 null_item14014
+14015 null_item14014 Seed
+14016 null_item14016
+14017 null_item14016 Seed
+14018 null_item14018
+14019 null_item14018 Seed
+14020 null_item14020
+14021 null_item14020 Seed
+14022 null_item14022
+14023 null_item14022 Seed
+14024 null_item14024
+14025 null_item14024 Seed
+14026 null_item14026
+14027 null_item14026 Seed
+14028 null_item14028
+14029 null_item14028 Seed
+14030 Chest of Wonders
+14031 Chest of Wonders Seed

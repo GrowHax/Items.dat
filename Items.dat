@@ -1,6 +1,7 @@
-## Date: 11/1/2023 ##
+## Date: 12/2/2023 ##
 ####### Decrypted/Formatted by Yuhkil ########
-########## Version 4.40 Items.dat ##########
+########## Version 4.43 Items.dat ##########
+
 
 
 0 Blank
@@ -111,10 +112,10 @@
 105 Rock Background Seed
 106 Toilet
 107 Toilet Seed
-108 Painting
-109 Painting
-110 Painting
-111 Painting
+108 Painting: Yerfdog
+109 Painting: Yerfdog Seed
+110 Painting: Dink Duck
+111 Painting: Dink Duck Seed
 112 Gems
 113 Gems Seed
 114 Disco Ball
@@ -397,6 +398,7 @@
 391 Heartstone Block Seed
 392 Heartstone
 393 Heartstone Seed
+394 Ultra Trophy 3000
 395 Ultra Trophy 3000 Seed
 396 Ultra Trophy 3001
 397 Ultra Trophy 3001 Seed
@@ -414,14 +416,22 @@
 409 Duct Tape Seed
 410 Checkpoint
 411 Checkpoint Seed
-413 Sheet Music
-415 Sheet Music
-417 Sheet Music
-419 Sheet Music
-421 Sheet Music
-423 Sheet Music
-425 Sheet Music
-427 Sheet Music
+412 Sheet Music: Blank
+413 Sheet Music: Blank Seed
+414 Sheet Music: Bass Note
+415 Sheet Music: Bass Note Seed
+416 Sheet Music: Sharp Bass
+417 Sheet Music: Sharp Bass Seed
+418 Sheet Music: Flat Bass
+419 Sheet Music: Flat Bass Seed
+420 Sheet Music: Piano Note
+421 Sheet Music: Piano Note Seed
+422 Sheet Music: Sharp Piano
+423 Sheet Music: Sharp Piano Seed
+424 Sheet Music: Flat Piano
+425 Sheet Music: Flat Piano Seed
+426 Sheet Music: Drums
+427 Sheet Music: Drums Seed
 428 Race Start Flag
 429 Race Start Flag Seed
 430 Race End Flag
@@ -720,6 +730,7 @@
 723 Pinata Whistle Seed
 724 Stinky Bucket
 725 Stinky Bucket Seed
+726 Acid
 727 Acid Seed
 728 Clouds
 729 Clouds Seed
@@ -975,6 +986,7 @@
 979 Slime Seed
 980 Profile
 981 Profile Seed
+982 Achievement Block
 983 Achievement Block Seed
 984 Weather Machine - Rainy City
 985 Weather Machine - Rainy City Seed
@@ -1486,8 +1498,8 @@
 1491 Weather Machine - Nothingness Seed
 1492 Doodad
 1493 Doodad Seed
-1494 ERROR
-1495 ERROR
+1494 ERROR!
+1495 ERROR! Seed
 1496 Rushboard
 1497 Rushboard Seed
 1498 Purple Stuff
@@ -1606,6 +1618,7 @@
 1611 Red Glass Block Seed
 1612 Blue Glass Block
 1613 Blue Glass Block Seed
+1614 Growie Award
 1615 Growie Award Seed
 1616 Staging Platform
 1617 Staging Platform Seed
@@ -1651,6 +1664,7 @@
 1657 Game Grave Seed
 1658 Game Goal
 1659 Game Goal Seed
+1660 Game Generator
 1661 Game Generator Seed
 1662 Spike Juice
 1663 Spike Juice Seed
@@ -2062,6 +2076,7 @@
 2069 Space Command Seat Seed
 2070 Ion Conduit
 2071 Ion Conduit Seed
+2072 Xenonite Crystal
 2073 Xenonite Crystal Seed
 2074 Super Shirt - Red
 2075 Super Shirt - Red Seed
@@ -2231,10 +2246,15 @@
 2239 Carnival Pipe Seed
 2240 Winter Flu Vaccine
 2241 Winter Flu Vaccine Seed
+2242 Red Crystal
 2243 Red Crystal Seed
+2244 Green Crystal
 2245 Green Crystal Seed
+2246 Blue Crystal
 2247 Blue Crystal Seed
+2248 White Crystal
 2249 White Crystal Seed
+2250 Black Crystal
 2251 Black Crystal Seed
 2252 Crystal Clock
 2253 Crystal Clock Seed
@@ -2280,8 +2300,8 @@
 2293 Superpower - Heat Vision Seed
 2294 Superpower - Incinerate
 2295 Superpower - Incinerate Seed
-2296 Superpower - Flame On
-2297 Superpower - Flame On
+2296 Superpower - Flame On!
+2297 Superpower - Flame On! Seed
 2298 Superpower - Liquify
 2299 Superpower - Liquify Seed
 2300 Superpower - Overheat
@@ -2336,8 +2356,8 @@
 2349 Villain Portrait - Big Bertha Seed
 2350 Villain Portrait - Shockinator
 2351 Villain Portrait - Shockinator Seed
-2352 Villain Portrait - Generic Thug 
-2353 Villain Portrait - Generic Thug 
+2352 Villain Portrait - Generic Thug #17
+2353 Villain Portrait - Generic Thug #17 Seed
 2354 Villain Portrait - Kat 5
 2355 Villain Portrait - Kat 5 Seed
 2356 Villain Portrait - Professor Pummel
@@ -2354,8 +2374,8 @@
 2367 Villain Portrait - Almighty Seth Seed
 2368 Villain Portrait - Devil Ham
 2369 Villain Portrait - Devil Ham Seed
-2370 Super Logo - 
-2371 Super Logo - 
+2370 Super Logo - ?
+2371 Super Logo - ? Seed
 2372 Super Logo - Z
 2373 Super Logo - Z Seed
 2374 Super Logo - Yerfdog
@@ -2962,6 +2982,7 @@
 2975 Red Bicycle Seed
 2976 Cybernetic Eye
 2977 Cybernetic Eye Seed
+2978 Vending Machine
 2979 Vending Machine Seed
 2980 Jester's Cap
 2981 Jester's Cap Seed
@@ -3055,6 +3076,7 @@
 3069 Fire Truck Seed
 3070 Fire Ax
 3071 Fire Ax Seed
+3072 Firehouse
 3073 Firehouse Seed
 3074 Floating Leaf
 3075 Floating Leaf Seed
@@ -3290,8 +3312,8 @@
 3305 80's Tape Deck Seed
 3306 D Battery
 3307 D Battery Seed
-3308 ERROR
-3309 ERROR
+3308 ERROR!
+3309 ERROR! Seed
 3310 Steampunk Sprocket
 3311 Steampunk Sprocket Seed
 3312 Steampunk Gearbox
@@ -3382,8 +3404,8 @@
 3397 Lovebird Pendant Seed
 3398 Booty Chest
 3399 Booty Chest Seed
-3400 Love Potion 
-3401 Love Potion 
+3400 Love Potion #8
+3401 Love Potion #8 Seed
 3402 Golden Booty Chest
 3403 Golden Booty Chest Seed
 3404 Sour Lollipop
@@ -3530,6 +3552,7 @@
 3545 Picasso Triggerfish Seed
 3546 Fish And Chips
 3547 Fish And Chips Seed
+3548 Battle Pet Cage
 3549 Battle Pet Cage Seed
 3550 Axolotl
 3551 Axolotl Seed
@@ -3731,6 +3754,7 @@
 3747 Firefin Seed
 3748 Bone Spikes
 3749 Bone Spikes Seed
+3750 Ghost Charm
 3751 Ghost Charm Seed
 3752 Steam Funnel
 3753 Steam Funnel Seed
@@ -3778,13 +3802,17 @@
 3795 Display Shelf Seed
 3796 One-Way Block
 3797 One-Way Block Seed
+3798 VIP Entrance
 3799 VIP Entrance Seed
 3800 Rhino Horn
 3801 Rhino Horn Seed
 3802 Globe
 3803 Globe Seed
+3804 Challenge Timer
 3805 Challenge Timer Seed
+3806 Challenge Start Flag
 3807 Challenge Start Flag Seed
+3808 Challenge End Flag
 3809 Challenge End Flag Seed
 3810 Fish Wall Mount
 3811 Fish Wall Mount Seed
@@ -3880,14 +3908,14 @@
 3901 Wooden Sword Seed
 3902 Crazy Jim
 3903 Crazy Jim Seed
-3904 Code Block
-3905 Code Block
-3906 Code Block
-3907 Code Block
-3908 Code Block
-3909 Code Block
-3910 Code Block
-3911 Code Block
+3904 Code Block: Kappa
+3905 Code Block: Kappa Seed
+3906 Code Block: Charlie
+3907 Code Block: Charlie Seed
+3908 Code Block: Ouroboros
+3909 Code Block: Ouroboros Seed
+3910 Code Block: Edamame
+3911 Code Block: Edamame Seed
 3912 Wool Scarf
 3913 Wool Scarf Seed
 3914 Sheep Shears
@@ -3914,6 +3942,7 @@
 3935 Rock Chisel Seed
 3936 Fossil
 3937 Fossil Seed
+3938 Fossil Prep Station
 3939 Fossil Prep Station Seed
 3940 Ammonite Block
 3941 Ammonite Block Seed
@@ -4055,6 +4084,7 @@
 4077 Grey Pet Tricerus Rex Seed
 4078 Grey Pet Triceratops
 4079 Grey Pet Triceratops Seed
+4080 DNA Processor
 4081 DNA Processor Seed
 4082 Dino DNA Strand A-273
 4083 Dino DNA Strand A-273 Seed
@@ -4098,6 +4128,7 @@
 4121 Raptor DNA Strand Alpha Seed
 4122 Raptor DNA Strand Omega
 4123 Raptor DNA Strand Omega Seed
+4124 DNA Extractor
 4125 DNA Extractor Seed
 4126 Stone Spear
 4127 Stone Spear Seed
@@ -4165,7 +4196,8 @@
 4189 Haunted Window Seed
 4190 Haunted Door
 4191 Haunted Door Seed
-4193 Sheet Music
+4192 Sheet Music: Spooky
+4193 Sheet Music: Spooky Seed
 4194 Stone Pagoda
 4195 Stone Pagoda Seed
 4196 Master Peng Stonework
@@ -4236,6 +4268,7 @@
 4261 Present Goblin Disguise Seed
 4262 Toy Train
 4263 Toy Train Seed
+4264 Stuff-4-Toys Box
 4265 Stuff-4-Toys Box Seed
 4266 Letter Block - Zerp
 4267 Letter Block - Zerp Seed
@@ -4251,10 +4284,10 @@
 4277 Winter Turtleneck Seed
 4278 Yo-Yo
 4279 Yo-Yo Seed
-4280 Meh
-4281 Meh
-4282 Meh
-4283 Meh
+4280 Meh, Bunny Mask
+4281 Meh, Bunny Mask Seed
+4282 Meh, Bunny Suit
+4283 Meh, Bunny Suit Seed
 4284 Rubber Band Airplane
 4285 Rubber Band Airplane Seed
 4286 Stuff-4-Toys Shirt
@@ -4273,8 +4306,11 @@
 4299 Caduceus Seed
 4300 Golden Caduceus
 4301 Golden Caduceus Seed
+4302 Golden Dragon Statue
 4303 Golden Dragon Statue Seed
+4304 Silver Dragon Statue
 4305 Silver Dragon Statue Seed
+4306 Jade Dragon Statue
 4307 Jade Dragon Statue Seed
 4308 Surgical Pins
 4309 Surgical Pins Seed
@@ -4360,10 +4396,10 @@
 4389 Green Bunting Seed
 4390 Yellow Bunting
 4391 Yellow Bunting Seed
-4392 Red 
-4393 Red 
-4394 Green 
-4395 Green 
+4392 Red & White Awning
+4393 Red & White Awning Seed
+4394 Green & Yellow Awning
+4395 Green & Yellow Awning Seed
 4396 Blue Awning
 4397 Blue Awning Seed
 4398 Black Awning
@@ -4484,6 +4520,7 @@
 4513 Mysterious Synthoid Seed
 4514 Haunted Synthoid
 4515 Haunted Synthoid Seed
+4516 Untrade-a-Box
 4517 Untrade-a-Box Seed
 4518 Wobbly Dress
 4519 Wobbly Dress Seed
@@ -4597,13 +4634,20 @@
 4627 TXMom's Crown Seed
 4628 Kudo's Carriage
 4629 Kudo's Carriage Seed
+4630 Audio Gear
 4631 Audio Gear Seed
+4632 Audio Rack
 4633 Audio Rack Seed
-4635 Sheet Music
-4637 Sheet Music
-4639 Sheet Music
-4641 Sheet Music
-4643 Sheet Music
+4634 Sheet Music: Sax Note
+4635 Sheet Music: Sax Note Seed
+4636 Sheet Music: Sharp Sax
+4637 Sheet Music: Sharp Sax Seed
+4638 Sheet Music: Flat Sax
+4639 Sheet Music: Flat Sax Seed
+4640 Sheet Music: Repeat Begin
+4641 Sheet Music: Repeat Begin Seed
+4642 Sheet Music: Repeat End
+4643 Sheet Music: Repeat End Seed
 4644 Saxamaphone
 4645 Saxamaphone Seed
 4646 Hazmat Boots
@@ -5046,6 +5090,7 @@
 5083 Ancestral Seed of Life Seed
 5084 Ancestral Lens of Riches
 5085 Ancestral Lens of Riches Seed
+5086 Ancient Altar
 5087 Ancient Altar Seed
 5088 Ghastly Robe
 5089 Ghastly Robe Seed
@@ -5085,16 +5130,16 @@
 5123 Cloud Rabbit Seed
 5124 Dryad
 5125 Dryad Seed
-5126 Ancestral Totem of Wisdom 
-5127 Ancestral Totem of Wisdom 
-5128 Ancestral Totem of Wisdom 
-5129 Ancestral Totem of Wisdom 
-5130 Ancestral Totem of Wisdom 
-5131 Ancestral Totem of Wisdom 
-5132 Ancestral Totem of Wisdom 
-5133 Ancestral Totem of Wisdom 
-5134 Ancestral Totem of Wisdom 
-5135 Ancestral Totem of Wisdom 
+5126 Ancestral Totem of Wisdom : Level 2
+5127 Ancestral Totem of Wisdom : Level 2 Seed
+5128 Ancestral Totem of Wisdom : Level 3
+5129 Ancestral Totem of Wisdom : Level 3 Seed
+5130 Ancestral Totem of Wisdom : Level 4
+5131 Ancestral Totem of Wisdom : Level 4 Seed
+5132 Ancestral Totem of Wisdom : Level 5
+5133 Ancestral Totem of Wisdom : Level 5 Seed
+5134 Ancestral Totem of Wisdom : Level 6
+5135 Ancestral Totem of Wisdom : Level 6 Seed
 5136 null_item5136
 5137 null_item5136 Seed
 5138 null_item5138
@@ -5103,16 +5148,16 @@
 5141 null_item5140 Seed
 5142 null_item5142
 5143 null_item5142 Seed
-5144 Ancestral Tesseract of Dimensions 
-5145 Ancestral Tesseract of Dimensions 
-5146 Ancestral Tesseract of Dimensions 
-5147 Ancestral Tesseract of Dimensions 
-5148 Ancestral Tesseract of Dimensions 
-5149 Ancestral Tesseract of Dimensions 
-5150 Ancestral Tesseract of Dimensions 
-5151 Ancestral Tesseract of Dimensions 
-5152 Ancestral Tesseract of Dimensions 
-5153 Ancestral Tesseract of Dimensions 
+5144 Ancestral Tesseract of Dimensions : Level 2
+5145 Ancestral Tesseract of Dimensions : Level 2 Seed
+5146 Ancestral Tesseract of Dimensions : Level 3
+5147 Ancestral Tesseract of Dimensions : Level 3 Seed
+5148 Ancestral Tesseract of Dimensions : Level 4
+5149 Ancestral Tesseract of Dimensions : Level 4 Seed
+5150 Ancestral Tesseract of Dimensions : Level 5
+5151 Ancestral Tesseract of Dimensions : Level 5 Seed
+5152 Ancestral Tesseract of Dimensions : Level 6
+5153 Ancestral Tesseract of Dimensions : Level 6 Seed
 5154 null_item5154
 5155 null_item5154 Seed
 5156 null_item5156
@@ -5121,16 +5166,16 @@
 5159 null_item5158 Seed
 5160 null_item5160
 5161 null_item5160 Seed
-5162 Ancestral Seed of Life 
-5163 Ancestral Seed of Life 
-5164 Ancestral Seed of Life 
-5165 Ancestral Seed of Life 
-5166 Ancestral Seed of Life 
-5167 Ancestral Seed of Life 
-5168 Ancestral Seed of Life 
-5169 Ancestral Seed of Life 
-5170 Ancestral Seed of Life 
-5171 Ancestral Seed of Life 
+5162 Ancestral Seed of Life : Level 2
+5163 Ancestral Seed of Life : Level 2 Seed
+5164 Ancestral Seed of Life : Level 3
+5165 Ancestral Seed of Life : Level 3 Seed
+5166 Ancestral Seed of Life : Level 4
+5167 Ancestral Seed of Life : Level 4 Seed
+5168 Ancestral Seed of Life : Level 5
+5169 Ancestral Seed of Life : Level 5 Seed
+5170 Ancestral Seed of Life : Level 6
+5171 Ancestral Seed of Life : Level 6 Seed
 5172 null_item5172
 5173 null_item5172 Seed
 5174 null_item5174
@@ -5139,16 +5184,16 @@
 5177 null_item5176 Seed
 5178 null_item5178
 5179 null_item5178 Seed
-5180 Ancestral Lens of Riches 
-5181 Ancestral Lens of Riches 
-5182 Ancestral Lens of Riches 
-5183 Ancestral Lens of Riches 
-5184 Ancestral Lens of Riches 
-5185 Ancestral Lens of Riches 
-5186 Ancestral Lens of Riches 
-5187 Ancestral Lens of Riches 
-5188 Ancestral Lens of Riches 
-5189 Ancestral Lens of Riches 
+5180 Ancestral Lens of Riches : Level 2
+5181 Ancestral Lens of Riches : Level 2 Seed
+5182 Ancestral Lens of Riches : Level 3
+5183 Ancestral Lens of Riches : Level 3 Seed
+5184 Ancestral Lens of Riches : Level 4
+5185 Ancestral Lens of Riches : Level 4 Seed
+5186 Ancestral Lens of Riches : Level 5
+5187 Ancestral Lens of Riches : Level 5 Seed
+5188 Ancestral Lens of Riches : Level 6
+5189 Ancestral Lens of Riches : Level 6 Seed
 5190 null_item5190
 5191 null_item5190 Seed
 5192 null_item5192
@@ -5277,7 +5322,9 @@
 5315 Cyber Monday Tablet - Silver Seed
 5316 Cyber Monday Tablet - Gold
 5317 Cyber Monday Tablet - Gold Seed
+5318 Winterfest Calendar - 2017
 5319 Winterfest Calendar - 2017 Seed
+5320 Used Winterfest Calendar - 2017
 5321 Used Winterfest Calendar - 2017 Seed
 5322 Zephyr Helm
 5323 Zephyr Helm Seed
@@ -5327,7 +5374,8 @@
 5367 Twinkling Lights Seed
 5368 Small Icicles
 5369 Small Icicles Seed
-5371 Sheet Music
+5370 Sheet Music: Winterfest
+5371 Sheet Music: Winterfest Seed
 5372 White Chocolate Block
 5373 White Chocolate Block Seed
 5374 Chocolate Swirl Block
@@ -5594,6 +5642,7 @@
 5635 Small Radioactive Bit Seed
 5636 Large Radioactive Bit
 5637 Large Radioactive Bit Seed
+5638 MAGPLANT 5000
 5639 MAGPLANT 5000 Seed
 5640 MAGPLANT 5000 Remote
 5641 MAGPLANT 5000 Remote Seed
@@ -5623,7 +5672,9 @@
 5665 Valentine's Card Seed
 5666 Laser Grid
 5667 Laser Grid Seed
+5668 ShockBot - Level 1
 5669 ShockBot - Level 1 Seed
+5670 SpikeBot - Level 1
 5671 SpikeBot - Level 1 Seed
 5672 Command - Move Left
 5673 Command - Move Left Seed
@@ -5661,10 +5712,13 @@
 5705 Command - Long Shot Down Seed
 5706 Small Seed Pack
 5707 Small Seed Pack Seed
+5708 ShooterBot - Level 1
 5709 ShooterBot - Level 1 Seed
+5710 FlameBot - Level 1
 5711 FlameBot - Level 1 Seed
 5712 Will of the Wild
 5713 Will of the Wild Seed
+5714 Giant Pot O' Gold
 5715 Giant Pot O' Gold Seed
 5716 Weather Machine - St. Paddy's Day
 5717 Weather Machine - St. Paddy's Day Seed
@@ -5676,9 +5730,12 @@
 5723 Irish Dance Dress Seed
 5724 Lucky Clover Background
 5725 Lucky Clover Background Seed
-5727 Sheet Music
-5729 Sheet Music
-5731 Sheet Music
+5726 Sheet Music: Flute Note
+5727 Sheet Music: Flute Note Seed
+5728 Sheet Music: Sharp Flute
+5729 Sheet Music: Sharp Flute Seed
+5730 Sheet Music: Flat Flute
+5731 Sheet Music: Flat Flute Seed
 5732 Harp
 5733 Harp Seed
 5734 Giant's Causeway Block
@@ -5727,17 +5784,29 @@
 5777 Growmoji Growtoken Seed
 5778 Growmoji Vend
 5779 Growmoji Vend Seed
+5780 ShooterBot - Level 2
 5781 ShooterBot - Level 2 Seed
+5782 ShooterBot - Level 3
 5783 ShooterBot - Level 3 Seed
+5784 ShooterBot - Level 4
 5785 ShooterBot - Level 4 Seed
+5786 FlameBot - Level 2
 5787 FlameBot - Level 2 Seed
+5788 FlameBot - Level 3
 5789 FlameBot - Level 3 Seed
+5790 FlameBot - Level 4
 5791 FlameBot - Level 4 Seed
+5792 ShockBot - Level 2
 5793 ShockBot - Level 2 Seed
+5794 ShockBot - Level 3
 5795 ShockBot - Level 3 Seed
+5796 ShockBot - Level 4
 5797 ShockBot - Level 4 Seed
+5798 SpikeBot - Level 2
 5799 SpikeBot - Level 2 Seed
+5800 SpikeBot - Level 3
 5801 SpikeBot - Level 3 Seed
+5802 SpikeBot - Level 4
 5803 SpikeBot - Level 4 Seed
 5804 Growmoji Oops
 5805 Growmoji Oops Seed
@@ -5757,118 +5826,118 @@
 5819 Guild Entrance - Normal Seed
 5820 Guild Entrance - Ornate
 5821 Guild Entrance - Ornate Seed
-5822 Guild Banner - Normal 
-5823 Guild Banner - Normal 
-5824 Guild Banner - Ornate 
-5825 Guild Banner - Ornate 
-5826 Guild Banner - Normal 
-5827 Guild Banner - Normal 
-5828 Guild Banner - Ornate 
-5829 Guild Banner - Ornate 
+5822 Guild Banner - Normal (Horizontal)
+5823 Guild Banner - Normal (Horizontal) Seed
+5824 Guild Banner - Ornate (Horizontal)
+5825 Guild Banner - Ornate (Horizontal) Seed
+5826 Guild Banner - Normal (Vertical)
+5827 Guild Banner - Normal (Vertical) Seed
+5828 Guild Banner - Ornate (Vertical)
+5829 Guild Banner - Ornate (Vertical) Seed
 5830 Guild Flag Pole - Spear
 5831 Guild Flag Pole - Spear Seed
 5832 Guild Flag Pole - Wings
 5833 Guild Flag Pole - Wings Seed
 5834 Guild Flag - Tatters
 5835 Guild Flag - Tatters Seed
-5836 Guild Flag - Tatters 
-5837 Guild Flag - Tatters 
-5838 Guild Flag - Tatters 
-5839 Guild Flag - Tatters 
-5840 Guild Flag - Tatters 
-5841 Guild Flag - Tatters 
-5842 Guild Flag - Tatters 
-5843 Guild Flag - Tatters 
-5844 Guild Flag - Tatters 
-5845 Guild Flag - Tatters 
-5846 Guild Flag - Tatters 
-5847 Guild Flag - Tatters 
-5848 Guild Flag - Tatters 
-5849 Guild Flag - Tatters 
-5850 Guild Flag - Tatters 
-5851 Guild Flag - Tatters 
-5852 Guild Flag - Tatters 
-5853 Guild Flag - Tatters 
+5836 Guild Flag - Tatters (Filigree)
+5837 Guild Flag - Tatters (Filigree) Seed
+5838 Guild Flag - Tatters (Harlequin)
+5839 Guild Flag - Tatters (Harlequin) Seed
+5840 Guild Flag - Tatters (Plaid)
+5841 Guild Flag - Tatters (Plaid) Seed
+5842 Guild Flag - Tatters (Cross)
+5843 Guild Flag - Tatters (Cross) Seed
+5844 Guild Flag - Tatters (Slant)
+5845 Guild Flag - Tatters (Slant) Seed
+5846 Guild Flag - Tatters (Panel)
+5847 Guild Flag - Tatters (Panel) Seed
+5848 Guild Flag - Tatters (Stripe)
+5849 Guild Flag - Tatters (Stripe) Seed
+5850 Guild Flag - Tatters (Flame)
+5851 Guild Flag - Tatters (Flame) Seed
+5852 Guild Flag - Tatters (Division)
+5853 Guild Flag - Tatters (Division) Seed
 5854 Guild Flag - Arrow
 5855 Guild Flag - Arrow Seed
-5856 Guild Flag - Arrow 
-5857 Guild Flag - Arrow 
-5858 Guild Flag - Arrow 
-5859 Guild Flag - Arrow 
-5860 Guild Flag - Arrow 
-5861 Guild Flag - Arrow 
-5862 Guild Flag - Arrow 
-5863 Guild Flag - Arrow 
-5864 Guild Flag - Arrow 
-5865 Guild Flag - Arrow 
-5866 Guild Flag - Arrow 
-5867 Guild Flag - Arrow 
-5868 Guild Flag - Arrow 
-5869 Guild Flag - Arrow 
-5870 Guild Flag - Arrow 
-5871 Guild Flag - Arrow 
-5872 Guild Flag - Arrow 
-5873 Guild Flag - Arrow 
+5856 Guild Flag - Arrow (Filigree)
+5857 Guild Flag - Arrow (Filigree) Seed
+5858 Guild Flag - Arrow (Harlequin)
+5859 Guild Flag - Arrow (Harlequin) Seed
+5860 Guild Flag - Arrow (Plaid)
+5861 Guild Flag - Arrow (Plaid) Seed
+5862 Guild Flag - Arrow (Cross)
+5863 Guild Flag - Arrow (Cross) Seed
+5864 Guild Flag - Arrow (Slant)
+5865 Guild Flag - Arrow (Slant) Seed
+5866 Guild Flag - Arrow (Panel)
+5867 Guild Flag - Arrow (Panel) Seed
+5868 Guild Flag - Arrow (Stripe)
+5869 Guild Flag - Arrow (Stripe) Seed
+5870 Guild Flag - Arrow (Flame)
+5871 Guild Flag - Arrow (Flame) Seed
+5872 Guild Flag - Arrow (Division)
+5873 Guild Flag - Arrow (Division) Seed
 5874 Guild Flag - Wave
 5875 Guild Flag - Wave Seed
-5876 Guild Flag - Wave 
-5877 Guild Flag - Wave 
-5878 Guild Flag - Wave 
-5879 Guild Flag - Wave 
-5880 Guild Flag - Wave 
-5881 Guild Flag - Wave 
-5882 Guild Flag - Wave 
-5883 Guild Flag - Wave 
-5884 Guild Flag - Wave 
-5885 Guild Flag - Wave 
-5886 Guild Flag - Wave 
-5887 Guild Flag - Wave 
-5888 Guild Flag - Wave 
-5889 Guild Flag - Wave 
-5890 Guild Flag - Wave 
-5891 Guild Flag - Wave 
-5892 Guild Flag - Wave 
-5893 Guild Flag - Wave 
+5876 Guild Flag - Wave (Filigree)
+5877 Guild Flag - Wave (Filigree) Seed
+5878 Guild Flag - Wave (Harlequin)
+5879 Guild Flag - Wave (Harlequin) Seed
+5880 Guild Flag - Wave (Plaid)
+5881 Guild Flag - Wave (Plaid) Seed
+5882 Guild Flag - Wave (Cross)
+5883 Guild Flag - Wave (Cross) Seed
+5884 Guild Flag - Wave (Slant)
+5885 Guild Flag - Wave (Slant) Seed
+5886 Guild Flag - Wave (Panel)
+5887 Guild Flag - Wave (Panel) Seed
+5888 Guild Flag - Wave (Stripe)
+5889 Guild Flag - Wave (Stripe) Seed
+5890 Guild Flag - Wave (Flame)
+5891 Guild Flag - Wave (Flame) Seed
+5892 Guild Flag - Wave (Division)
+5893 Guild Flag - Wave (Division) Seed
 5894 Guild Flag - Peak
 5895 Guild Flag - Peak Seed
-5896 Guild Flag - Peak 
-5897 Guild Flag - Peak 
-5898 Guild Flag - Peak 
-5899 Guild Flag - Peak 
-5900 Guild Flag - Peak 
-5901 Guild Flag - Peak 
-5902 Guild Flag - Peak 
-5903 Guild Flag - Peak 
-5904 Guild Flag - Peak 
-5905 Guild Flag - Peak 
-5906 Guild Flag - Peak 
-5907 Guild Flag - Peak 
-5908 Guild Flag - Peak 
-5909 Guild Flag - Peak 
-5910 Guild Flag - Peak 
-5911 Guild Flag - Peak 
-5912 Guild Flag - Peak 
-5913 Guild Flag - Peak 
+5896 Guild Flag - Peak (Filigree)
+5897 Guild Flag - Peak (Filigree) Seed
+5898 Guild Flag - Peak (Harlequin)
+5899 Guild Flag - Peak (Harlequin) Seed
+5900 Guild Flag - Peak (Plaid)
+5901 Guild Flag - Peak (Plaid) Seed
+5902 Guild Flag - Peak (Cross)
+5903 Guild Flag - Peak (Cross) Seed
+5904 Guild Flag - Peak (Slant)
+5905 Guild Flag - Peak (Slant) Seed
+5906 Guild Flag - Peak (Panel)
+5907 Guild Flag - Peak (Panel) Seed
+5908 Guild Flag - Peak (Stripe)
+5909 Guild Flag - Peak (Stripe) Seed
+5910 Guild Flag - Peak (Flame)
+5911 Guild Flag - Peak (Flame) Seed
+5912 Guild Flag - Peak (Division)
+5913 Guild Flag - Peak (Division) Seed
 5914 Guild Flag - Shield
 5915 Guild Flag - Shield Seed
-5916 Guild Flag - Shield 
-5917 Guild Flag - Shield 
-5918 Guild Flag - Shield 
-5919 Guild Flag - Shield 
-5920 Guild Flag - Shield 
-5921 Guild Flag - Shield 
-5922 Guild Flag - Shield 
-5923 Guild Flag - Shield 
-5924 Guild Flag - Shield 
-5925 Guild Flag - Shield 
-5926 Guild Flag - Shield 
-5927 Guild Flag - Shield 
-5928 Guild Flag - Shield 
-5929 Guild Flag - Shield 
-5930 Guild Flag - Shield 
-5931 Guild Flag - Shield 
-5932 Guild Flag - Shield 
-5933 Guild Flag - Shield 
+5916 Guild Flag - Shield (Filigree)
+5917 Guild Flag - Shield (Filigree) Seed
+5918 Guild Flag - Shield (Harlequin)
+5919 Guild Flag - Shield (Harlequin) Seed
+5920 Guild Flag - Shield (Plaid)
+5921 Guild Flag - Shield (Plaid) Seed
+5922 Guild Flag - Shield (Cross)
+5923 Guild Flag - Shield (Cross) Seed
+5924 Guild Flag - Shield (Slant)
+5925 Guild Flag - Shield (Slant) Seed
+5926 Guild Flag - Shield (Panel)
+5927 Guild Flag - Shield (Panel) Seed
+5928 Guild Flag - Shield (Stripe)
+5929 Guild Flag - Shield (Stripe) Seed
+5930 Guild Flag - Shield (Flame)
+5931 Guild Flag - Shield (Flame) Seed
+5932 Guild Flag - Shield (Division)
+5933 Guild Flag - Shield (Division) Seed
 5934 Guild Potion - Geiger
 5935 Guild Potion - Geiger Seed
 5936 Guild Potion - Grow
@@ -5879,10 +5948,10 @@
 5941 Guild Potion - Big Fish Seed
 5942 Guild Potion - Blocks
 5943 Guild Potion - Blocks Seed
-5944 Guild Potion
-5945 Guild Potion
-5946 Guild Potion
-5947 Guild Potion
+5944 Guild Potion: White Mixer
+5945 Guild Potion: White Mixer Seed
+5946 Guild Potion: Black Mixer
+5947 Guild Potion: Black Mixer Seed
 5948 Gold Guild Chest
 5949 Gold Guild Chest Seed
 5950 Silver Guild Chest
@@ -5949,7 +6018,9 @@
 6011 Egg Rescue Ticket Seed
 6012 Dumb Leader
 6013 Dumb Leader Seed
+6014 WOTD Trophy 2018
 6015 WOTD Trophy 2018 Seed
+6016 GrowScan 9000
 6017 GrowScan 9000 Seed
 6018 Element - Earth
 6019 Element - Earth Seed
@@ -5963,9 +6034,12 @@
 6027 Whip of Truth Seed
 6028 Ring Of Shrinking
 6029 Ring Of Shrinking Seed
-6031 Sheet Music
-6033 Sheet Music
-6035 Sheet Music
+6030 Sheet Music: Spanish Guitar Note
+6031 Sheet Music: Spanish Guitar Note Seed
+6032 Sheet Music: Sharp Spanish Guitar
+6033 Sheet Music: Sharp Spanish Guitar Seed
+6034 Sheet Music: Flat Spanish Guitar
+6035 Sheet Music: Flat Spanish Guitar Seed
 6036 Axolotl Leash
 6037 Axolotl Leash Seed
 6038 Riding Axolotl
@@ -5990,6 +6064,7 @@
 6057 Bandolier Seed
 6058 Dual Six-Shooters
 6059 Dual Six-Shooters Seed
+6060 Dark Spirit Board
 6061 Dark Spirit Board Seed
 6062 Spirit Board
 6063 Spirit Board Seed
@@ -6023,8 +6098,8 @@
 6091 Neutron Focus Core Seed
 6092 Foil Hat
 6093 Foil Hat Seed
-6094 Summer Event Player Medal
-6095 Summer Event Player Medal
+6094 Summer Event Player Medal: Gold
+6095 Summer Event Player Medal: Gold Seed
 6096 EctoJuicer
 6097 EctoJuicer Seed
 6098 Bamboo Frame
@@ -6059,24 +6134,29 @@
 6127 Dumb Question 2 Seed
 6128 Dumb Question 3
 6129 Dumb Question 3 Seed
-6130 Summer Event Player Medal
-6131 Summer Event Player Medal
-6132 Summer Event Player Medal
-6133 Summer Event Player Medal
-6134 Summer Event Guild Medal
-6135 Summer Event Guild Medal
-6136 Summer Event Guild Medal
-6137 Summer Event Guild Medal
-6138 Summer Event Guild Medal
-6139 Summer Event Guild Medal
+6130 Summer Event Player Medal: Bronze
+6131 Summer Event Player Medal: Bronze Seed
+6132 Summer Event Player Medal: Silver
+6133 Summer Event Player Medal: Silver Seed
+6134 Summer Event Guild Medal: Bronze
+6135 Summer Event Guild Medal: Bronze Seed
+6136 Summer Event Guild Medal: Silver
+6137 Summer Event Guild Medal: Silver Seed
+6138 Summer Event Guild Medal: Gold
+6139 Summer Event Guild Medal: Gold Seed
 6140 Extract-O-Snap
 6141 Extract-O-Snap Seed
+6142 Extractor Dynamo
 6143 Extractor Dynamo Seed
 6144 Aurora Wings
 6145 Aurora Wings Seed
+6146 SearBot - Level 1
 6147 SearBot - Level 1 Seed
+6148 SearBot - Level 2
 6149 SearBot - Level 2 Seed
+6150 SearBot - Level 3
 6151 SearBot - Level 3 Seed
+6152 SearBot - Level 4
 6153 SearBot - Level 4 Seed
 6154 Deathtrap Wall
 6155 Deathtrap Wall Seed
@@ -6204,12 +6284,17 @@
 6277 Growmoji Trollface Seed
 6278 Growmoji Evil Devil
 6279 Growmoji Evil Devil Seed
+6280 Weather Machine - Guild
 6281 Weather Machine - Guild Seed
+6282 World Architect
 6283 World Architect Seed
 6284 Flaming Aura
 6285 Flaming Aura Seed
+6286 Storage Box Xtreme - Level 1
 6287 Storage Box Xtreme - Level 1 Seed
+6288 Storage Box Xtreme - Level 2
 6289 Storage Box Xtreme - Level 2 Seed
+6290 Storage Box Xtreme - Level 3
 6291 Storage Box Xtreme - Level 3 Seed
 6292 Dumb Checkmark
 6293 Dumb Checkmark Seed
@@ -6301,8 +6386,8 @@
 6379 Ferungi Ears Seed
 6380 Volcanix Ears
 6381 Volcanix Ears Seed
-6382 Startopian Empire - Force Shield 
-6383 Startopian Empire - Force Shield 
+6382 Startopian Empire - Force Shield & Phase Blaster
+6383 Startopian Empire - Force Shield & Phase Blaster Seed
 6384 Robot Legs
 6385 Robot Legs Seed
 6386 Starship Floor Tile
@@ -6485,10 +6570,10 @@
 6563 Starship Hull - INT Top Inner Corner Seed
 6564 Starship Hull - EXT Roof
 6565 Starship Hull - EXT Roof Seed
-6566 Starship Hull - EXT Roof Top Corner 
-6567 Starship Hull - EXT Roof Top Corner 
-6568 Starship Hull - EXT Roof Bottom Corner 
-6569 Starship Hull - EXT Roof Bottom Corner 
+6566 Starship Hull - EXT Roof Top Corner (R)
+6567 Starship Hull - EXT Roof Top Corner (R) Seed
+6568 Starship Hull - EXT Roof Bottom Corner (R)
+6569 Starship Hull - EXT Roof Bottom Corner (R) Seed
 6570 Starship Hull - EXT Thrusters
 6571 Starship Hull - EXT Thrusters Seed
 6572 Starship Hull - EXT Top Thruster
@@ -6501,90 +6586,90 @@
 6579 Starship Hull - EXT Top Wall Seed
 6580 Starship Hull - EXT Bottom Wall
 6581 Starship Hull - EXT Bottom Wall Seed
-6582 Starship Hull - EXT Bottom Wall Corner 
-6583 Starship Hull - EXT Bottom Wall Corner 
+6582 Starship Hull - EXT Bottom Wall Corner (L)
+6583 Starship Hull - EXT Bottom Wall Corner (L) Seed
 6584 Starship Hull - EXT Bottom Vent
 6585 Starship Hull - EXT Bottom Vent Seed
 6586 Starship Hull - EXT Bottom Detail
 6587 Starship Hull - EXT Bottom Detail Seed
 6588 Starship Hull - EXT Bottom
 6589 Starship Hull - EXT Bottom Seed
-6590 Starship Hull - EXT Bottom Wall Corner 
-6591 Starship Hull - EXT Bottom Wall Corner 
-6592 Starship Hull - EXT Bottom Wall Inner Corner 
-6593 Starship Hull - EXT Bottom Wall Inner Corner 
+6590 Starship Hull - EXT Bottom Wall Corner (R)
+6591 Starship Hull - EXT Bottom Wall Corner (R) Seed
+6592 Starship Hull - EXT Bottom Wall Inner Corner (R)
+6593 Starship Hull - EXT Bottom Wall Inner Corner (R) Seed
 6594 Starship Hull - EXT Cockpit
 6595 Starship Hull - EXT Cockpit Seed
-6596 Starship Hull - EXT Top Roof Corner 
-6597 Starship Hull - EXT Top Roof Corner 
-6598 Starship Hull - EXT Roof 
-6599 Starship Hull - EXT Roof 
-6600 Starship Hull - EXT Roof Top Corner 
-6601 Starship Hull - EXT Roof Top Corner 
-6602 Starship Hull - EXT Roof Bottom Corner 
-6603 Starship Hull - EXT Roof Bottom Corner 
-6604 Starship Hull - EXT Thrusters 
-6605 Starship Hull - EXT Thrusters 
-6606 Starship Hull - EXT Top Thruster 
-6607 Starship Hull - EXT Top Thruster 
-6608 Starship Hull - EXT Bottom Thruster 
-6609 Starship Hull - EXT Bottom Thruster 
-6610 Starship Hull - EXT Wall 
-6611 Starship Hull - EXT Wall 
-6612 Starship Hull - EXT Top Wall 
-6613 Starship Hull - EXT Top Wall 
-6614 Starship Hull - EXT Bottom Wall 
-6615 Starship Hull - EXT Bottom Wall 
-6616 Starship Hull - EXT Bottom Wall Corner 
-6617 Starship Hull - EXT Bottom Wall Corner 
-6618 Starship Hull - EXT Bottom Vent 
-6619 Starship Hull - EXT Bottom Vent 
-6620 Starship Hull - EXT Bottom Detail 
-6621 Starship Hull - EXT Bottom Detail 
-6622 Starship Hull - EXT Bottom 
-6623 Starship Hull - EXT Bottom 
-6624 Starship Hull - EXT Bottom Wall Corner 
-6625 Starship Hull - EXT Bottom Wall Corner 
-6626 Starship Hull - EXT Bottom Wall Inner Corner 
-6627 Starship Hull - EXT Bottom Wall Inner Corner 
-6628 Starship Hull - EXT Cockpit 
-6629 Starship Hull - EXT Cockpit 
-6630 Starship Hull - EXT Top Roof Corner 
-6631 Starship Hull - EXT Top Roof Corner 
-6632 Starship Hull - EXT Roof 
-6633 Starship Hull - EXT Roof 
-6634 Starship Hull - EXT Roof Top Corner 
-6635 Starship Hull - EXT Roof Top Corner 
-6636 Starship Hull - EXT Roof Bottom Corner 
-6637 Starship Hull - EXT Roof Bottom Corner 
-6638 Starship Hull - EXT Thrusters 
-6639 Starship Hull - EXT Thrusters 
-6640 Starship Hull - EXT Top Thruster 
-6641 Starship Hull - EXT Top Thruster 
-6642 Starship Hull - EXT Bottom Thruster 
-6643 Starship Hull - EXT Bottom Thruster 
-6644 Starship Hull - EXT Wall 
-6645 Starship Hull - EXT Wall 
-6646 Starship Hull - EXT Top Wall 
-6647 Starship Hull - EXT Top Wall 
-6648 Starship Hull - EXT Bottom Wall 
-6649 Starship Hull - EXT Bottom Wall 
-6650 Starship Hull - EXT Bottom Wall Corner 
-6651 Starship Hull - EXT Bottom Wall Corner 
-6652 Starship Hull - EXT Bottom Vent 
-6653 Starship Hull - EXT Bottom Vent 
-6654 Starship Hull - EXT Bottom Detail 
-6655 Starship Hull - EXT Bottom Detail 
-6656 Starship Hull - EXT Bottom 
-6657 Starship Hull - EXT Bottom 
-6658 Starship Hull - EXT Bottom Wall Corner 
-6659 Starship Hull - EXT Bottom Wall Corner 
-6660 Starship Hull - EXT Bottom Wall Inner Corner 
-6661 Starship Hull - EXT Bottom Wall Inner Corner 
-6662 Starship Hull - EXT Cockpit 
-6663 Starship Hull - EXT Cockpit 
-6664 Starship Hull - EXT Top Roof Corner 
-6665 Starship Hull - EXT Top Roof Corner 
+6596 Starship Hull - EXT Top Roof Corner (L)
+6597 Starship Hull - EXT Top Roof Corner (L) Seed
+6598 Starship Hull - EXT Roof (GREEN)
+6599 Starship Hull - EXT Roof (GREEN) Seed
+6600 Starship Hull - EXT Roof Top Corner (R) (GREEN)
+6601 Starship Hull - EXT Roof Top Corner (R) (GREEN) Seed
+6602 Starship Hull - EXT Roof Bottom Corner (R) (GREEN)
+6603 Starship Hull - EXT Roof Bottom Corner (R) (GREEN) Seed
+6604 Starship Hull - EXT Thrusters (GREEN)
+6605 Starship Hull - EXT Thrusters (GREEN) Seed
+6606 Starship Hull - EXT Top Thruster (GREEN)
+6607 Starship Hull - EXT Top Thruster (GREEN) Seed
+6608 Starship Hull - EXT Bottom Thruster (GREEN)
+6609 Starship Hull - EXT Bottom Thruster (GREEN) Seed
+6610 Starship Hull - EXT Wall (GREEN)
+6611 Starship Hull - EXT Wall (GREEN) Seed
+6612 Starship Hull - EXT Top Wall (GREEN)
+6613 Starship Hull - EXT Top Wall (GREEN) Seed
+6614 Starship Hull - EXT Bottom Wall (GREEN)
+6615 Starship Hull - EXT Bottom Wall (GREEN) Seed
+6616 Starship Hull - EXT Bottom Wall Corner (L) (GREEN)
+6617 Starship Hull - EXT Bottom Wall Corner (L) (GREEN) Seed
+6618 Starship Hull - EXT Bottom Vent (GREEN)
+6619 Starship Hull - EXT Bottom Vent (GREEN) Seed
+6620 Starship Hull - EXT Bottom Detail (GREEN)
+6621 Starship Hull - EXT Bottom Detail (GREEN) Seed
+6622 Starship Hull - EXT Bottom (GREEN)
+6623 Starship Hull - EXT Bottom (GREEN) Seed
+6624 Starship Hull - EXT Bottom Wall Corner (R) (GREEN)
+6625 Starship Hull - EXT Bottom Wall Corner (R) (GREEN) Seed
+6626 Starship Hull - EXT Bottom Wall Inner Corner (R) (GREEN)
+6627 Starship Hull - EXT Bottom Wall Inner Corner (R) (GREEN) Seed
+6628 Starship Hull - EXT Cockpit (GREEN)
+6629 Starship Hull - EXT Cockpit (GREEN) Seed
+6630 Starship Hull - EXT Top Roof Corner (L) (GREEN)
+6631 Starship Hull - EXT Top Roof Corner (L) (GREEN) Seed
+6632 Starship Hull - EXT Roof (PURPLE)
+6633 Starship Hull - EXT Roof (PURPLE) Seed
+6634 Starship Hull - EXT Roof Top Corner (R) (PURPLE)
+6635 Starship Hull - EXT Roof Top Corner (R) (PURPLE) Seed
+6636 Starship Hull - EXT Roof Bottom Corner (R) (PURPLE)
+6637 Starship Hull - EXT Roof Bottom Corner (R) (PURPLE) Seed
+6638 Starship Hull - EXT Thrusters (PURPLE)
+6639 Starship Hull - EXT Thrusters (PURPLE) Seed
+6640 Starship Hull - EXT Top Thruster (PURPLE)
+6641 Starship Hull - EXT Top Thruster (PURPLE) Seed
+6642 Starship Hull - EXT Bottom Thruster (PURPLE)
+6643 Starship Hull - EXT Bottom Thruster (PURPLE) Seed
+6644 Starship Hull - EXT Wall (PURPLE)
+6645 Starship Hull - EXT Wall (PURPLE) Seed
+6646 Starship Hull - EXT Top Wall (PURPLE)
+6647 Starship Hull - EXT Top Wall (PURPLE) Seed
+6648 Starship Hull - EXT Bottom Wall (PURPLE)
+6649 Starship Hull - EXT Bottom Wall (PURPLE) Seed
+6650 Starship Hull - EXT Bottom Wall Corner (L) (PURPLE)
+6651 Starship Hull - EXT Bottom Wall Corner (L) (PURPLE) Seed
+6652 Starship Hull - EXT Bottom Vent (PURPLE)
+6653 Starship Hull - EXT Bottom Vent (PURPLE) Seed
+6654 Starship Hull - EXT Bottom Detail (PURPLE)
+6655 Starship Hull - EXT Bottom Detail (PURPLE) Seed
+6656 Starship Hull - EXT Bottom (PURPLE)
+6657 Starship Hull - EXT Bottom (PURPLE) Seed
+6658 Starship Hull - EXT Bottom Wall Corner (R) (PURPLE)
+6659 Starship Hull - EXT Bottom Wall Corner (R) (PURPLE) Seed
+6660 Starship Hull - EXT Bottom Wall Inner Corner (R) (PURPLE)
+6661 Starship Hull - EXT Bottom Wall Inner Corner (R) (PURPLE) Seed
+6662 Starship Hull - EXT Cockpit (PURPLE)
+6663 Starship Hull - EXT Cockpit (PURPLE) Seed
+6664 Starship Hull - EXT Top Roof Corner (L) (PURPLE)
+6665 Starship Hull - EXT Top Roof Corner (L) (PURPLE) Seed
 6666 HyperTech Starship Blast
 6667 HyperTech Starship Blast Seed
 6668 Field Grass
@@ -6617,52 +6702,52 @@
 6695 Super Utility Wings Seed
 6696 Super Utility Boots - Yellow
 6697 Super Utility Boots - Yellow Seed
-6698 Starship Hull - EXT Roof 
-6699 Starship Hull - EXT Roof 
-6700 Starship Hull - EXT Roof Top Corner 
-6701 Starship Hull - EXT Roof Top Corner 
-6702 Starship Hull - EXT Roof Bottom Corner 
-6703 Starship Hull - EXT Roof Bottom Corner 
-6704 Starship Hull - EXT Thrusters 
-6705 Starship Hull - EXT Thrusters 
-6706 Starship Hull - EXT Top Thruster 
-6707 Starship Hull - EXT Top Thruster 
-6708 Starship Hull - EXT Bottom Thruster 
-6709 Starship Hull - EXT Bottom Thruster 
-6710 Starship Hull - EXT Wall 
-6711 Starship Hull - EXT Wall 
-6712 Starship Hull - EXT Top Wall 
-6713 Starship Hull - EXT Top Wall 
-6714 Starship Hull - EXT Bottom Wall 
-6715 Starship Hull - EXT Bottom Wall 
-6716 Starship Hull - EXT Bottom Wall Corner 
-6717 Starship Hull - EXT Bottom Wall Corner 
-6718 Starship Hull - EXT Bottom Vent 
-6719 Starship Hull - EXT Bottom Vent 
-6720 Starship Hull - EXT Bottom Detail 
-6721 Starship Hull - EXT Bottom Detail 
-6722 Starship Hull - EXT Bottom 
-6723 Starship Hull - EXT Bottom 
-6724 Starship Hull - EXT Bottom Wall Corner 
-6725 Starship Hull - EXT Bottom Wall Corner 
-6726 Starship Hull - EXT Bottom Wall Inner Corner 
-6727 Starship Hull - EXT Bottom Wall Inner Corner 
-6728 Starship Hull - EXT Cockpit 
-6729 Starship Hull - EXT Cockpit 
-6730 Starship Hull - EXT Top Roof Corner 
-6731 Starship Hull - EXT Top Roof Corner 
+6698 Starship Hull - EXT Roof (RED)
+6699 Starship Hull - EXT Roof (RED) Seed
+6700 Starship Hull - EXT Roof Top Corner (R) (RED)
+6701 Starship Hull - EXT Roof Top Corner (R) (RED) Seed
+6702 Starship Hull - EXT Roof Bottom Corner (R) (RED)
+6703 Starship Hull - EXT Roof Bottom Corner (R) (RED) Seed
+6704 Starship Hull - EXT Thrusters (RED)
+6705 Starship Hull - EXT Thrusters (RED) Seed
+6706 Starship Hull - EXT Top Thruster (RED)
+6707 Starship Hull - EXT Top Thruster (RED) Seed
+6708 Starship Hull - EXT Bottom Thruster (RED)
+6709 Starship Hull - EXT Bottom Thruster (RED) Seed
+6710 Starship Hull - EXT Wall (RED)
+6711 Starship Hull - EXT Wall (RED) Seed
+6712 Starship Hull - EXT Top Wall (RED)
+6713 Starship Hull - EXT Top Wall (RED) Seed
+6714 Starship Hull - EXT Bottom Wall (RED)
+6715 Starship Hull - EXT Bottom Wall (RED) Seed
+6716 Starship Hull - EXT Bottom Wall Corner (L) (RED)
+6717 Starship Hull - EXT Bottom Wall Corner (L) (RED) Seed
+6718 Starship Hull - EXT Bottom Vent (RED)
+6719 Starship Hull - EXT Bottom Vent (RED) Seed
+6720 Starship Hull - EXT Bottom Detail (RED)
+6721 Starship Hull - EXT Bottom Detail (RED) Seed
+6722 Starship Hull - EXT Bottom (RED)
+6723 Starship Hull - EXT Bottom (RED) Seed
+6724 Starship Hull - EXT Bottom Wall Corner (R) (RED)
+6725 Starship Hull - EXT Bottom Wall Corner (R) (RED) Seed
+6726 Starship Hull - EXT Bottom Wall Inner Corner (R) (RED)
+6727 Starship Hull - EXT Bottom Wall Inner Corner (R) (RED) Seed
+6728 Starship Hull - EXT Cockpit (RED)
+6729 Starship Hull - EXT Cockpit (RED) Seed
+6730 Starship Hull - EXT Top Roof Corner (L) (RED)
+6731 Starship Hull - EXT Top Roof Corner (L) (RED) Seed
 6732 Star Tool Background
 6733 Star Tool Background Seed
 6734 Mega Buckazoid
 6735 Mega Buckazoid Seed
 6736 Starship Hull - EXT Metal Panel
 6737 Starship Hull - EXT Metal Panel Seed
-6738 Starship Hull - EXT Metal Panel 
-6739 Starship Hull - EXT Metal Panel 
-6740 Starship Hull - EXT Metal Panel 
-6741 Starship Hull - EXT Metal Panel 
-6742 Starship Hull - EXT Metal Panel 
-6743 Starship Hull - EXT Metal Panel 
+6738 Starship Hull - EXT Metal Panel (GREEN)
+6739 Starship Hull - EXT Metal Panel (GREEN) Seed
+6740 Starship Hull - EXT Metal Panel (PURPLE)
+6741 Starship Hull - EXT Metal Panel (PURPLE) Seed
+6742 Starship Hull - EXT Metal Panel (RED)
+6743 Starship Hull - EXT Metal Panel (RED) Seed
 6744 Growmoji Alien
 6745 Growmoji Alien Seed
 6746 Space
@@ -6727,9 +6812,12 @@
 6805 Bubble Gun Seed
 6806 Oink-Oink Nose
 6807 Oink-Oink Nose Seed
-6809 Sheet Music
-6811 Sheet Music
-6813 Sheet Music
+6808 Sheet Music: Violin Note
+6809 Sheet Music: Violin Note Seed
+6810 Sheet Music: Sharp Violin
+6811 Sheet Music: Sharp Violin Seed
+6812 Sheet Music: Flat Violin
+6813 Sheet Music: Flat Violin Seed
 6814 Bubblicious Hair
 6815 Bubblicious Hair Seed
 6816 Fire Punk Hair
@@ -6862,10 +6950,15 @@
 6943 Exquisite Scanner Seed
 6944 Anomalizing Elegant Scanner
 6945 Anomalizing Elegant Scanner Seed
+6946 Gaia's Beacon
 6947 Gaia's Beacon Seed
+6948 Unstable Tesseract
 6949 Unstable Tesseract Seed
+6950 Heart of Gaia
 6951 Heart of Gaia Seed
+6952 Tesseract Manipulator
 6953 Tesseract Manipulator Seed
+6954 Techno-Organic Engine
 6955 Techno-Organic Engine Seed
 6956 Beat-root Block
 6957 Beat-root Block Seed
@@ -6943,8 +7036,8 @@
 7029 Blue Kimono Seed
 7030 Orange Kimono
 7031 Orange Kimono Seed
-7032 Ornamental Hair Fan 
-7033 Ornamental Hair Fan 
+7032 Ornamental Hair Fan & Chopsticks
+7033 Ornamental Hair Fan & Chopsticks Seed
 7034 Oil-paper Umbrella
 7035 Oil-paper Umbrella Seed
 7036 Geisha Makeup
@@ -6989,8 +7082,8 @@
 7075 Dumb Star Captain Seed
 7076 Dumb Cook
 7077 Dumb Cook Seed
-7078 Legendary Clash Key 
-7079 Legendary Clash Key 
+7078 Legendary Clash Key & Finale Ticket
+7079 Legendary Clash Key & Finale Ticket Seed
 7080 Ezio's Hood
 7081 Ezio's Hood Seed
 7082 Ezio's Vest
@@ -7079,14 +7172,14 @@
 7165 Red House Entrance Seed
 7166 Ancestral Orb of Time
 7167 Ancestral Orb of Time Seed
-7168 Ancestral Orb of Time 
-7169 Ancestral Orb of Time 
-7170 Ancestral Orb of Time 
-7171 Ancestral Orb of Time 
-7172 Ancestral Orb of Time 
-7173 Ancestral Orb of Time 
-7174 Ancestral Orb of Time 
-7175 Ancestral Orb of Time 
+7168 Ancestral Orb of Time : Level 2
+7169 Ancestral Orb of Time : Level 2 Seed
+7170 Ancestral Orb of Time : Level 3
+7171 Ancestral Orb of Time : Level 3 Seed
+7172 Ancestral Orb of Time : Level 4
+7173 Ancestral Orb of Time : Level 4 Seed
+7174 Ancestral Orb of Time : Level 5
+7175 Ancestral Orb of Time : Level 5 Seed
 7176 Dragon Block
 7177 Dragon Block Seed
 7178 Carnival Ladders
@@ -7117,8 +7210,8 @@
 7203 Storm Cloud Seed
 7204 Supplier's Cape
 7205 Supplier's Cape Seed
-7206 The Great Chameleon
-7207 The Great Chameleon
+7206 The Great Chameleon: Master of Disguise
+7207 The Great Chameleon: Master of Disguise Seed
 7208 Winter Freezer Robe
 7209 Winter Freezer Robe Seed
 7210 Ultra Winter Freezer Robe
@@ -7129,9 +7222,12 @@
 7215 Crafter's Cape Seed
 7216 Mad Hatter
 7217 Mad Hatter Seed
-7219 Sheet Music
-7221 Sheet Music
-7223 Sheet Music
+7218 Sheet Music: Lyre Note
+7219 Sheet Music: Lyre Note Seed
+7220 Sheet Music: Sharp Lyre
+7221 Sheet Music: Sharp Lyre Seed
+7222 Sheet Music: Flat Lyre
+7223 Sheet Music: Flat Lyre Seed
 7224 Oak Tree
 7225 Oak Tree Seed
 7226 Winter Foliage
@@ -7196,8 +7292,8 @@
 7285 Stables Seed
 7286 Murder Hole - Hot Liquid Tar
 7287 Murder Hole - Hot Liquid Tar Seed
-7288 Cheval de Frise 
-7289 Cheval de Frise 
+7288 Cheval de Frise (Siege Barrier)
+7289 Cheval de Frise (Siege Barrier) Seed
 7290 Royal Carpet
 7291 Royal Carpet Seed
 7292 Wooden Guard Tower
@@ -7238,18 +7334,18 @@
 7327 Stable Background Seed
 7328 Winter Token
 7329 Winter Token Seed
-7330 Winter Event Player Medal
-7331 Winter Event Player Medal
-7332 Winter Event Player Medal
-7333 Winter Event Player Medal
-7334 Winter Event Player Medal
-7335 Winter Event Player Medal
-7336 Winter Event Guild Medal
-7337 Winter Event Guild Medal
-7338 Winter Event Guild Medal
-7339 Winter Event Guild Medal
-7340 Winter Event Guild Medal
-7341 Winter Event Guild Medal
+7330 Winter Event Player Medal: Bronze
+7331 Winter Event Player Medal: Bronze Seed
+7332 Winter Event Player Medal: Silver
+7333 Winter Event Player Medal: Silver Seed
+7334 Winter Event Player Medal: Gold
+7335 Winter Event Player Medal: Gold Seed
+7336 Winter Event Guild Medal: Bronze
+7337 Winter Event Guild Medal: Bronze Seed
+7338 Winter Event Guild Medal: Silver
+7339 Winter Event Guild Medal: Silver Seed
+7340 Winter Event Guild Medal: Gold
+7341 Winter Event Guild Medal: Gold Seed
 7342 Thanksgiving Bell
 7343 Thanksgiving Bell Seed
 7344 Dead Thanksgiving Turkey
@@ -7292,8 +7388,8 @@
 7381 Monochrome Blast Seed
 7382 Onyx Block
 7383 Onyx Block Seed
-7384 Go-Go-Growformer
-7385 Go-Go-Growformer
+7384 Go-Go-Growformer!
+7385 Go-Go-Growformer! Seed
 7386 Ultra Winter Freezer Teddy Suit
 7387 Ultra Winter Freezer Teddy Suit Seed
 7388 Winter Freezer Teddy Mask
@@ -7384,7 +7480,9 @@
 7473 Bandaged Mr. Narwhal Seed
 7474 Growmoji Gift
 7475 Growmoji Gift Seed
+7476 Winterfest Calendar - 2018
 7477 Winterfest Calendar - 2018 Seed
+7478 Used Winterfest Calendar - 2018
 7479 Used Winterfest Calendar - 2018 Seed
 7480 Growformer PowerKey
 7481 Growformer PowerKey Seed
@@ -7798,16 +7896,16 @@
 7889 Garden Bench Seed
 7890 Garden Shears
 7891 Garden Shears Seed
-7892 Country Tweed Waistcoat 
-7893 Country Tweed Waistcoat 
+7892 Country Tweed Waistcoat & Tie
+7893 Country Tweed Waistcoat & Tie Seed
 7894 Country Tweed Open Jacket
 7895 Country Tweed Open Jacket Seed
 7896 Country Tweed Trousers
 7897 Country Tweed Trousers Seed
 7898 Country Tweed Flat Cap
 7899 Country Tweed Flat Cap Seed
-7900 Country Tweed Jacket 
-7901 Country Tweed Jacket 
+7900 Country Tweed Jacket & Yellow Tie
+7901 Country Tweed Jacket & Yellow Tie Seed
 7902 Country Riding Breeches
 7903 Country Riding Breeches Seed
 7904 Country Riding Hat
@@ -7848,8 +7946,8 @@
 7939 Paintball Power Popper Seed
 7940 Flaming Boxing Gloves
 7941 Flaming Boxing Gloves Seed
-7942 Up
-7943 Up
+7942 Up, Up, and Away Block
+7943 Up, Up, and Away Block Seed
 7944 Spring Flinger Frog Suit
 7945 Spring Flinger Frog Suit Seed
 7946 Ultra Spring Flinger Frog Suit
@@ -7870,18 +7968,18 @@
 7961 null_item7960 Seed
 7962 null_item7962
 7963 null_item7962 Seed
-7964 Spring Event Player Medal
-7965 Spring Event Player Medal
-7966 Spring Event Player Medal
-7967 Spring Event Player Medal
-7968 Spring Event Player Medal
-7969 Spring Event Player Medal
-7970 Spring Event Guild Medal
-7971 Spring Event Guild Medal
-7972 Spring Event Guild Medal
-7973 Spring Event Guild Medal
-7974 Spring Event Guild Medal
-7975 Spring Event Guild Medal
+7964 Spring Event Player Medal: Bronze
+7965 Spring Event Player Medal: Bronze Seed
+7966 Spring Event Player Medal: Silver
+7967 Spring Event Player Medal: Silver Seed
+7968 Spring Event Player Medal: Gold
+7969 Spring Event Player Medal: Gold Seed
+7970 Spring Event Guild Medal: Bronze
+7971 Spring Event Guild Medal: Bronze Seed
+7972 Spring Event Guild Medal: Silver
+7973 Spring Event Guild Medal: Silver Seed
+7974 Spring Event Guild Medal: Gold
+7975 Spring Event Guild Medal: Gold Seed
 7976 Kairos' Apollo
 7977 Kairos' Apollo Seed
 7978 Celtic Cross
@@ -7940,6 +8038,7 @@
 8031 NekoRei's Fluffy Micio Seed
 8032 NekoRei's Fluffy Tail
 8033 NekoRei's Fluffy Tail Seed
+8034 WOTD Trophy 2019
 8035 WOTD Trophy 2019 Seed
 8036 Balloon Bunny
 8037 Balloon Bunny Seed
@@ -8101,6 +8200,7 @@
 8193 Buddy's Block Head Seed
 8194 Glowy Cape
 8195 Glowy Cape Seed
+8196 Building Blocks Machine
 8197 Building Blocks Machine Seed
 8198 Used Building Blocks Machine
 8199 Used Building Blocks Machine Seed
@@ -8204,6 +8304,7 @@
 8297 Spring Flinger Squirrel Mask Seed
 8298 Ultra Spring Flinger Squirrel Suit
 8299 Ultra Spring Flinger Squirrel Suit Seed
+8300 Mud Puddle
 8301 Mud Puddle Seed
 8302 Steampunk Wings
 8303 Steampunk Wings Seed
@@ -8303,8 +8404,8 @@
 8397 Burnt Slime Seed
 8398 Putrid Gas
 8399 Putrid Gas Seed
-8400 Festering Urchin 
-8401 Festering Urchin 
+8400 Festering Urchin & Poop Pie
+8401 Festering Urchin & Poop Pie Seed
 8402 Putrid Gas Filled Blood Maggot Crepes
 8403 Putrid Gas Filled Blood Maggot Crepes Seed
 8404 Alien Bloodied Brains Strudel
@@ -8315,8 +8416,8 @@
 8409 Festering Fish Guts Taco Seed
 8410 Alien Brains Strudel
 8411 Alien Brains Strudel Seed
-8412 Maggot-Slathered Fish 
-8413 Maggot-Slathered Fish 
+8412 Maggot-Slathered Fish & Sticks
+8413 Maggot-Slathered Fish & Sticks Seed
 8414 Blood Filled Crepes
 8415 Blood Filled Crepes Seed
 8416 Growmoji Ill
@@ -8507,8 +8608,8 @@
 8601 Chinos - Pastel Orange Seed
 8602 Chinos - Pastel Blue
 8603 Chinos - Pastel Blue Seed
-8604 Crab Claw 
-8605 Crab Claw 
+8604 Crab Claw & Shield
+8605 Crab Claw & Shield Seed
 8606 Dungeonist Crab Leash
 8607 Dungeonist Crab Leash Seed
 8608 Riding Flamingo
@@ -8643,21 +8744,37 @@
 8737 Obsidian Axe Seed
 8738 Bountiful Blast
 8739 Bountiful Blast Seed
+8740 Bountiful Flowering Lattice Root Cutting
 8741 Bountiful Flowering Lattice Root Cutting Seed
+8742 Bountiful Climbing Hydrangea Lattice Root Cutting
 8743 Bountiful Climbing Hydrangea Lattice Root Cutting Seed
+8744 Bountiful Flowering Garland Root Cutting
 8745 Bountiful Flowering Garland Root Cutting Seed
+8746 Bountiful Lattice Fence Root Cutting
 8747 Bountiful Lattice Fence Root Cutting Seed
+8748 Bountiful Jungle Temple Root Cutting
 8749 Bountiful Jungle Temple Root Cutting Seed
+8750 Bountiful Jungle Temple Background Root Cutting
 8751 Bountiful Jungle Temple Background Root Cutting Seed
+8752 Bountiful Jungle Temple Door Root Cutting
 8753 Bountiful Jungle Temple Door Root Cutting Seed
+8754 Bountiful Jungle Temple Pillar Root Cutting
 8755 Bountiful Jungle Temple Pillar Root Cutting Seed
+8756 Bountiful Bamboo Background Root Cutting
 8757 Bountiful Bamboo Background Root Cutting Seed
+8758 Bountiful Bamboo Platform Root Cutting
 8759 Bountiful Bamboo Platform Root Cutting Seed
+8760 Bountiful Bamboo Ladder Root Cutting
 8761 Bountiful Bamboo Ladder Root Cutting Seed
+8762 Bountiful Bamboo Spikes Root Cutting
 8763 Bountiful Bamboo Spikes Root Cutting Seed
+8764 Bountiful White Doll's Eyes Root Cutting
 8765 Bountiful White Doll's Eyes Root Cutting Seed
+8766 Bountiful Monkshood Root Cutting
 8767 Bountiful Monkshood Root Cutting Seed
+8768 Bountiful Corpse Flower Root Cutting
 8769 Bountiful Corpse Flower Root Cutting Seed
+8770 Bountiful Growtopian-Eating Looming Plant Root Cutting
 8771 Bountiful Growtopian-Eating Looming Plant Root Cutting Seed
 8772 Fertile Soil Block
 8773 Fertile Soil Block Seed
@@ -8745,8 +8862,8 @@
 8855 Samurai's Kabuto Seed
 8856 Samurai's Waraji
 8857 Samurai's Waraji Seed
-8858 Samurai's Suneate 
-8859 Samurai's Suneate 
+8858 Samurai's Suneate & Leggings
+8859 Samurai's Suneate & Leggings Seed
 8860 Valkyrie's Cuirass
 8861 Valkyrie's Cuirass Seed
 8862 Valkyrie's Wings
@@ -8765,6 +8882,7 @@
 8875 Girls's School Uniform Shirt Seed
 8876 Girls's School Uniform Skirt
 8877 Girls's School Uniform Skirt Seed
+8878 Safe Vault
 8879 Safe Vault Seed
 8880 Messy Braid
 8881 Messy Braid Seed
@@ -8906,6 +9024,7 @@
 9017 Superfly Hat Seed
 9018 Dark Ticket
 9019 Dark Ticket Seed
+9020 Sacrificial Well
 9021 Sacrificial Well Seed
 9022 Ultimate Corruption Altar
 9023 Ultimate Corruption Altar Seed
@@ -8993,8 +9112,8 @@
 9105 Cooking Recipe - Alien Bloodied Brains Strudel Seed
 9106 Cooking Recipe - Rotting Fish Guts Club Sandwich
 9107 Cooking Recipe - Rotting Fish Guts Club Sandwich Seed
-9108 Cooking Recipe - Festering Urchin 
-9109 Cooking Recipe - Festering Urchin 
+9108 Cooking Recipe - Festering Urchin & Poop Pie
+9109 Cooking Recipe - Festering Urchin & Poop Pie Seed
 9110 Dumb Tomb of Growganoth
 9111 Dumb Tomb of Growganoth Seed
 9112 Dumb Tomb of Growganoth Claimed
@@ -9097,19 +9216,21 @@
 9209 Cute Riding Polar Bear Seed
 9210 Winter Radiance Aura
 9211 Winter Radiance Aura Seed
-9212 Ancestral Orb of Time 
-9213 Ancestral Orb of Time 
-9214 Legendary Clash Key 
-9215 Legendary Clash Key 
+9212 Ancestral Orb of Time : Level 6
+9213 Ancestral Orb of Time : Level 6 Seed
+9214 Legendary Clash Key & Finale Ticket
+9215 Legendary Clash Key & Finale Ticket Seed
 9216 Winter Clash Finale Ticket
 9217 Winter Clash Finale Ticket Seed
-9218 Legendary Clash Key 
-9219 Legendary Clash Key 
+9218 Legendary Clash Key & Finale Ticket
+9219 Legendary Clash Key & Finale Ticket Seed
 9220 Spring Clash Finale Ticket
 9221 Spring Clash Finale Ticket Seed
 9222 Dumb Pass Icon
 9223 Dumb Pass Icon Seed
+9224 Winterfest Calendar - 2019
 9225 Winterfest Calendar - 2019 Seed
+9226 Used Winterfest Calendar - 2019
 9227 Used Winterfest Calendar - 2019 Seed
 9228 Dummy Item for VIP Effect
 9229 Dummy Item for VIP Effect Seed
@@ -9123,8 +9244,8 @@
 9237 Ancient Shards Seed
 9238 Flower Pot
 9239 Flower Pot Seed
-9240 Coin
-9241 Coin
+9240 Coin: 7th Anniversary Block
+9241 Coin: 7th Anniversary Block Seed
 9242 Rave Haze Light
 9243 Rave Haze Light Seed
 9244 Rave Hall Wall
@@ -9151,7 +9272,9 @@
 9265 Anniversary Skyrocket Seed
 9266 1-Day Free Subscription Token
 9267 1-Day Free Subscription Token Seed
+9268 DigiVend Machine
 9269 DigiVend Machine Seed
+9270 Vending Hub - Checkout Counter
 9271 Vending Hub - Checkout Counter Seed
 9272 Draconic Claw
 9273 Draconic Claw Seed
@@ -9179,6 +9302,7 @@
 9295 Emperor's Jacket Seed
 9296 Dummy Item for Checkout Counter Dialog
 9297 Dummy Item for Checkout Counter Dialog Seed
+9298 WOTD Trophy 2020
 9299 WOTD Trophy 2020 Seed
 9300 Euphoric Dragon Egg
 9301 Euphoric Dragon Egg Seed
@@ -9226,6 +9350,7 @@
 9343 Datemaster's Bling Seed
 9344 Datemaster's Heart Locket
 9345 Datemaster's Heart Locket Seed
+9346 Angelic Counting Cloud
 9347 Angelic Counting Cloud Seed
 9348 Medusa's Crown
 9349 Medusa's Crown Seed
@@ -9247,6 +9372,7 @@
 9365 Dwarven Mining Helm Seed
 9366 Shield of Mining
 9367 Shield of Mining Seed
+9368 Mining Explosives
 9369 Mining Explosives Seed
 9370 Strange Eyes
 9371 Strange Eyes Seed
@@ -9560,8 +9686,11 @@
 9679 Mature Rotten Pineapple Roots Seed
 9680 Pineapple Gift Box
 9681 Pineapple Gift Box Seed
+9682 Pineapple Root Cutting
 9683 Pineapple Root Cutting Seed
+9684 Super Pineapple Root Cutting
 9685 Super Pineapple Root Cutting Seed
+9686 Dangerous Pineapple Root Cutting
 9687 Dangerous Pineapple Root Cutting Seed
 9688 Moon Lamp
 9689 Moon Lamp Seed
@@ -9607,8 +9736,8 @@
 9729 Dark Watcher's Mask Seed
 9730 Phoenix Scarf
 9731 Phoenix Scarf Seed
-9732 Greg
-9733 Greg
+9732 Greg, The Octopus
+9733 Greg, The Octopus Seed
 9734 Starfish Leash
 9735 Starfish Leash Seed
 9736 Floatie Crown
@@ -9931,7 +10060,9 @@
 10053 Eldritch Crossbow Seed
 10054 Zodiac Wings
 10055 Zodiac Wings Seed
+10056 Ghost Block
 10057 Ghost Block Seed
+10058 Infinity Weather Machine
 10059 Infinity Weather Machine Seed
 10060 Creepy Baby Gate
 10061 Creepy Baby Gate Seed
@@ -10319,8 +10450,11 @@
 10443 Winter Light Launcher Seed
 10444 Gavle Goat
 10445 Gavle Goat Seed
+10446 Winterfest Calendar - 2020
 10447 Winterfest Calendar - 2020 Seed
+10448 Used Winterfest Calendar - 2020
 10449 Used Winterfest Calendar - 2020 Seed
+10450 Diamond Builders Bonanza
 10451 Diamond Builders Bonanza Seed
 10452 Used Diamond Builders Bonanza
 10453 Used Diamond Builders Bonanza Seed
@@ -10398,9 +10532,12 @@
 10525 Winter Colonel Beard Seed
 10526 Electric Guitar
 10527 Electric Guitar Seed
-10529 Sheet Music
-10531 Sheet Music
-10533 Sheet Music
+10528 Sheet Music: Electric Guitar
+10529 Sheet Music: Electric Guitar Seed
+10530 Sheet Music: Sharp Electric Guitar
+10531 Sheet Music: Sharp Electric Guitar Seed
+10532 Sheet Music: Flat Electric Guitar
+10533 Sheet Music: Flat Electric Guitar Seed
 10534 Confetti Jump Pack
 10535 Confetti Jump Pack Seed
 10536 Special Winter Wish
@@ -10441,6 +10578,7 @@
 10571 Rave Safe Mask Seed
 10572 Rollback Plaque VIII
 10573 Rollback Plaque VIII Seed
+10574 WOTD Trophy 2021
 10575 WOTD Trophy 2021 Seed
 10576 Draconic Soul Aura
 10577 Draconic Soul Aura Seed
@@ -10450,6 +10588,7 @@
 10581 Year of the Ox Mask Seed
 10582 Year of The Ox Statue
 10583 Year of The Ox Statue Seed
+10584 Dynasty Vase
 10585 Dynasty Vase Seed
 10586 Oxen Battle Helm
 10587 Oxen Battle Helm Seed
@@ -10521,6 +10660,7 @@
 10653 Love Charged Hands Seed
 10654 Love Portal
 10655 Love Portal Seed
+10656 Well of Love
 10657 Well of Love Seed
 10658 Dry Well of Love
 10659 Dry Well of Love Seed
@@ -10622,6 +10762,7 @@
 10755 Helping Hand Seed
 10756 Golden Egg Carton
 10757 Golden Egg Carton Seed
+10758 Waving Inflatable Arm Guy
 10759 Waving Inflatable Arm Guy Seed
 10760 Easter Egg - Wooly
 10761 Easter Egg - Wooly Seed
@@ -10691,9 +10832,12 @@
 10825 Pink Platforms Seed
 10826 Lava Pinata
 10827 Lava Pinata Seed
-10829 Sheet Music
-10831 Sheet Music
-10833 Sheet Music
+10828 Sheet Music: Mexican Trumpet
+10829 Sheet Music: Mexican Trumpet Seed
+10830 Sheet Music: Sharp Mexican Trumpet
+10831 Sheet Music: Sharp Mexican Trumpet Seed
+10832 Sheet Music: Flat Mexican Trumpet
+10833 Sheet Music: Flat Mexican Trumpet Seed
 10834 Startopia Supply Crate
 10835 Startopia Supply Crate Seed
 10836 Surgery Supply Crate
@@ -10730,9 +10874,13 @@
 10867 DUMB G4G Diamond Seed
 10868 DUMB G4G Crate Pack
 10869 DUMB G4G Crate Pack Seed
+10870 Ad Block 2x3
 10871 Ad Block 2x3 Seed
+10872 Ad Block 3x2
 10873 Ad Block 3x2 Seed
+10874 Ad Block 6x1
 10875 Ad Block 6x1 Seed
+10876 Ad Control Block
 10877 Ad Control Block Seed
 10878 Radical Rider
 10879 Radical Rider Seed
@@ -10754,12 +10902,12 @@
 10895 Pineapple Shoulder Cannon Seed
 10896 The Pine Throne
 10897 The Pine Throne Seed
-10898 Pure Pineapple A
-10899 Pure Pineapple A
-10900 Pure Pineapple A
-10901 Pure Pineapple A
-10902 Pure Pineapple A
-10903 Pure Pineapple A
+10898 Pure Pineapple A+ Shirt
+10899 Pure Pineapple A+ Shirt Seed
+10900 Pure Pineapple A+ Scarf
+10901 Pure Pineapple A+ Scarf Seed
+10902 Pure Pineapple A+ Pants
+10903 Pure Pineapple A+ Pants Seed
 10904 Pineapple Face Mask
 10905 Pineapple Face Mask Seed
 10906 Petite Pineapple Hair Pin
@@ -10780,6 +10928,7 @@
 10921 Voucher Dayz Super Hero Crate Seed
 10922 Pegasus Lance
 10923 Pegasus Lance Seed
+10924 Pineapple Guzzler
 10925 Pineapple Guzzler Seed
 10926 Horn Headband
 10927 Horn Headband Seed
@@ -10817,18 +10966,31 @@
 10959 Space Pig Seed
 10960 Space Rabbit
 10961 Space Rabbit Seed
+10962 Kranken's Galactic Block
 10963 Kranken's Galactic Block Seed
+10964 Krankens Pattern 1
 10965 Krankens Pattern 1 Seed
+10966 Krankens Pattern 2
 10967 Krankens Pattern 2 Seed
+10968 Krankens Pattern 3
 10969 Krankens Pattern 3 Seed
+10970 Krankens Pattern 4
 10971 Krankens Pattern 4 Seed
+10972 Krankens Pattern 5
 10973 Krankens Pattern 5 Seed
+10974 Krankens Pattern 6
 10975 Krankens Pattern 6 Seed
+10976 Krankens Pattern 7
 10977 Krankens Pattern 7 Seed
+10978 Krankens Pattern 8
 10979 Krankens Pattern 8 Seed
+10980 Krankens Pattern 9
 10981 Krankens Pattern 9 Seed
+10982 Krankens Pattern 10
 10983 Krankens Pattern 10 Seed
+10984 Krankens Pattern 11
 10985 Krankens Pattern 11 Seed
+10986 Krankens Pattern 12
 10987 Krankens Pattern 12 Seed
 10988 Pineapple Pizza Slice
 10989 Pineapple Pizza Slice Seed
@@ -10980,6 +11142,7 @@
 11135 Samille's Soul Abductor Seed
 11136 Mystery Portal
 11137 Mystery Portal Seed
+11138 Friends Entrance
 11139 Friends Entrance Seed
 11140 Legendary Destroyer
 11141 Legendary Destroyer Seed
@@ -11051,6 +11214,7 @@
 11207 Silver-framed Sunglasses Seed
 11208 Green Leaf Crown
 11209 Green Leaf Crown Seed
+11210 Quicksand Block
 11211 Quicksand Block Seed
 11212 Indonesian Skirt
 11213 Indonesian Skirt Seed
@@ -11312,7 +11476,9 @@
 11469 Candy Cane Cruiser Seed
 11470 Diamond Warrior Pauldrons
 11471 Diamond Warrior Pauldrons Seed
+11472 Winterfest Calendar - 2021
 11473 Winterfest Calendar - 2021 Seed
+11474 Used Winterfest Calendar - 2021
 11475 Used Winterfest Calendar - 2021 Seed
 11476 Black Friday Black Box Xtreme
 11477 Black Friday Black Box Xtreme Seed
@@ -11430,33 +11596,34 @@
 11589 Wings of Daidalos Seed
 11590 Rollback Plaque IX
 11591 Rollback Plaque IX Seed
+11592 WOTD Trophy 2022
 11593 WOTD Trophy 2022 Seed
 11594 Riding Rabbid
 11595 Riding Rabbid Seed
 11596 Earth Suit
 11597 Earth Suit Seed
-11598 Prince of Persia
-11599 Prince of Persia
-11600 Prince of Persia
-11601 Prince of Persia
-11602 Prince of Persia
-11603 Prince of Persia
-11604 Prince of Persia
-11605 Prince of Persia
-11606 Prince of Persia
-11607 Prince of Persia
-11608 Prince of Persia
-11609 Prince of Persia
-11610 Prince of Persia
-11611 Prince of Persia
-11612 Prince of Persia
-11613 Prince of Persia
-11614 Prince of Persia
-11615 Prince of Persia
-11616 Prince of Persia
-11617 Prince of Persia
-11618 Prince of Persia
-11619 Prince of Persia
+11598 Prince of Persia: Cave Column
+11599 Prince of Persia: Cave Column Seed
+11600 Prince of Persia: Cave Spikes
+11601 Prince of Persia: Cave Spikes Seed
+11602 Prince of Persia: Cave Torch
+11603 Prince of Persia: Cave Torch Seed
+11604 Prince of Persia: Cave Background
+11605 Prince of Persia: Cave Background Seed
+11606 Prince of Persia: Palace Spikes
+11607 Prince of Persia: Palace Spikes Seed
+11608 Prince of Persia: Palace Turret
+11609 Prince of Persia: Palace Turret Seed
+11610 Prince of Persia: Palace Background
+11611 Prince of Persia: Palace Background Seed
+11612 Prince of Persia: Palace Arch
+11613 Prince of Persia: Palace Arch Seed
+11614 Prince of Persia: Palace Wall
+11615 Prince of Persia: Palace Wall Seed
+11616 Prince of Persia: Palace Dome
+11617 Prince of Persia: Palace Dome Seed
+11618 Prince of Persia: Hourglass of Time
+11619 Prince of Persia: Hourglass of Time Seed
 11620 2022 - Zodiac Year of the Tiger
 11621 2022 - Zodiac Year of the Tiger Seed
 11622 Draconic Soul Cannon
@@ -11601,8 +11768,8 @@
 11761 Growing Guardian Armor Seed
 11762 Growing Guardian Gauntlets
 11763 Growing Guardian Gauntlets Seed
-11764 Edison
-11765 Edison
+11764 Edison, The Lightbulb
+11765 Edison, The Lightbulb Seed
 11766 Other Winged Angel
 11767 Other Winged Angel Seed
 11768 Fish Tank Head
@@ -11863,8 +12030,8 @@
 12023 Mek'leth Seed
 12024 Mine Laser Drill
 12025 Mine Laser Drill Seed
-12026 Walter
-12027 Walter
+12026 Walter, The Manager
+12027 Walter, The Manager Seed
 12028 Alien Computer
 12029 Alien Computer Seed
 12030 Box of Supplies
@@ -12015,8 +12182,8 @@
 12175 Pearl Butterfly Wings Seed
 12176 Poppin' Popsicle Pickaxe
 12177 Poppin' Popsicle Pickaxe Seed
-12178 Parrot Dude
-12179 Parrot Dude
+12178 Parrot Dude!
+12179 Parrot Dude! Seed
 12180 Great Ball of Fire
 12181 Great Ball of Fire Seed
 12182 Pearl Tiki Crown
@@ -12109,14 +12276,14 @@
 12269 Vacation Van Seed
 12270 Founder of the Fancy Gentleman Club
 12271 Founder of the Fancy Gentleman Club Seed
-12272 Robert
-12273 Robert
+12272 Robert, The Robot
+12273 Robert, The Robot Seed
 12274 Alien Menace
 12275 Alien Menace Seed
 12276 Criminal Mastermind
 12277 Criminal Mastermind Seed
-12278 Mark
-12279 Mark
+12278 Mark, The Mechanic
+12279 Mark, The Mechanic Seed
 12280 Pet Teacup
 12281 Pet Teacup Seed
 12282 German Shepherd
@@ -12149,12 +12316,12 @@
 12309 Eldritch Eyes Seed
 12310 Alien Ship
 12311 Alien Ship Seed
-12312 Lincoln
-12313 Lincoln
-12314 Alan
-12315 Alan
-12316 Geoff
-12317 Geoff
+12312 Lincoln, The Leprechaun
+12313 Lincoln, The Leprechaun Seed
+12314 Alan, The Alien
+12315 Alan, The Alien Seed
+12316 Geoff, The Guard
+12317 Geoff, The Guard Seed
 12318 U.S.S. Protostar Platform
 12319 U.S.S. Protostar Platform Seed
 12320 U.S.S. Protostar Wall
@@ -12195,6 +12362,7 @@
 12355 Garuda Wings Seed
 12356 Garuda Battle Axe
 12357 Garuda Battle Axe Seed
+12358 Music Amplifier
 12359 Music Amplifier Seed
 12360 Strange Eddie Hair
 12361 Strange Eddie Hair Seed
@@ -12392,8 +12560,8 @@
 12553 Barista Pants Seed
 12554 Barista Shoes
 12555 Barista Shoes Seed
-12556 Bouncer Shades 
-12557 Bouncer Shades 
+12556 Bouncer Shades & Beard
+12557 Bouncer Shades & Beard Seed
 12558 Bouncer Shirt
 12559 Bouncer Shirt Seed
 12560 Bouncer Pants
@@ -12434,7 +12602,9 @@
 12595 Rumah Adat Asmat Seed
 12596 Dachshund Statue
 12597 Dachshund Statue Seed
+12598 Offering Table
 12599 Offering Table Seed
+12600 Ultra World Spray
 12601 Ultra World Spray Seed
 12602 Jade Rabbit
 12603 Jade Rabbit Seed
@@ -12494,26 +12664,27 @@
 12657 Pontianak Pet Seed
 12658 Fist of Vengeance
 12659 Fist of Vengeance Seed
-12660 Assassin's Creed
-12661 Assassin's Creed
-12662 Assassin's Creed
-12663 Assassin's Creed
-12664 Assassin's Creed
-12665 Assassin's Creed
-12666 Assassin's Creed
-12667 Assassin's Creed
-12668 Assassin's Creed
-12669 Assassin's Creed
-12670 Assassin's Creed
-12671 Assassin's Creed
-12672 Assassin's Creed
-12673 Assassin's Creed
-12674 Assassin's Creed
-12675 Assassin's Creed
-12676 Assassin's Creed
-12677 Assassin's Creed
+12660 Assassin's Creed: Renaissance House
+12661 Assassin's Creed: Renaissance House Seed
+12662 Assassin's Creed: Renaissance Balustrade
+12663 Assassin's Creed: Renaissance Balustrade Seed
+12664 Assassin's Creed: Renaissance Road
+12665 Assassin's Creed: Renaissance Road Seed
+12666 Assassin's Creed: Renaissance Arch
+12667 Assassin's Creed: Renaissance Arch Seed
+12668 Assassin's Creed: Renaissance Roof
+12669 Assassin's Creed: Renaissance Roof Seed
+12670 Assassin's Creed: Renaissance Scaffolding
+12671 Assassin's Creed: Renaissance Scaffolding Seed
+12672 Assassin's Creed: Renaissance Topiary
+12673 Assassin's Creed: Renaissance Topiary Seed
+12674 Assassin's Creed: Wanted Poster
+12675 Assassin's Creed: Wanted Poster Seed
+12676 Assassin's Creed: Hay Checkpoint
+12677 Assassin's Creed: Hay Checkpoint Seed
 12678 Assassin's Creed Building Supply
 12679 Assassin's Creed Building Supply Seed
+12680 Wonder Provider
 12681 Wonder Provider Seed
 12682 Used Wonder Provider
 12683 Used Wonder Provider Seed
@@ -12615,8 +12786,8 @@
 12779 Dancing Zombie Seed
 12780 Ghost Dumplings Hat
 12781 Ghost Dumplings Hat Seed
-12782 Cliff
-12783 Cliff
+12782 Cliff, The Cerberus
+12783 Cliff, The Cerberus Seed
 12784 Crystal Ball Buddy
 12785 Crystal Ball Buddy Seed
 12786 Vined Grandfather Clock
@@ -12819,7 +12990,9 @@
 12983 Turkey Fight Entrance Seed
 12984 Tattered Cloak
 12985 Tattered Cloak Seed
+12986 Winterfest Calendar - 2022
 12987 Winterfest Calendar - 2022 Seed
+12988 Used Winterfest Calendar - 2022
 12989 Used Winterfest Calendar - 2022 Seed
 12990 Disco Fever
 12991 Disco Fever Seed
@@ -12883,6 +13056,7 @@
 13049 Birthday Band Hair Seed
 13050 Mythic Vermillion Crown
 13051 Mythic Vermillion Crown Seed
+13052 WOTD Trophy 2023
 13053 WOTD Trophy 2023 Seed
 13054 Lunar Chest
 13055 Lunar Chest Seed
@@ -13404,6 +13578,7 @@
 13571 Fruit Warrior Pants Seed
 13572 Phoenix Sickles
 13573 Phoenix Sickles Seed
+13574 Deluxe World Spray
 13575 Deluxe World Spray Seed
 13576 Pet Pearl
 13577 Pet Pearl Seed
@@ -13839,25 +14014,135 @@
 14007 Royal Bloodmoon Wings Seed
 14008 Twisted Horns
 14009 Twisted Horns Seed
-14010 null_item14010
-14011 null_item14010 Seed
-14012 null_item14012
-14013 null_item14012 Seed
-14014 null_item14014
-14015 null_item14014 Seed
-14016 null_item14016
-14017 null_item14016 Seed
-14018 null_item14018
-14019 null_item14018 Seed
-14020 null_item14020
-14021 null_item14020 Seed
-14022 null_item14022
-14023 null_item14022 Seed
-14024 null_item14024
-14025 null_item14024 Seed
-14026 null_item14026
-14027 null_item14026 Seed
-14028 null_item14028
-14029 null_item14028 Seed
+14010 Greatest Swordsman's Third Blade
+14011 Greatest Swordsman's Third Blade Seed
+14012 Greatest Swordsman's Hair
+14013 Greatest Swordsman's Hair Seed
+14014 Greatest Swordsman's Kimono
+14015 Greatest Swordsman's Kimono Seed
+14016 Greatest Swordsman's Cloak
+14017 Greatest Swordsman's Cloak Seed
+14018 Greatest Swordsman's Dual Wield
+14019 Greatest Swordsman's Dual Wield Seed
+14020 Greatest Swordsman's Sandals
+14021 Greatest Swordsman's Sandals Seed
+14022 Black Big Fluffin' Giga-Ears
+14023 Black Big Fluffin' Giga-Ears Seed
+14024 Black Blingin' Board
+14025 Black Blingin' Board Seed
+14026 Black Ultraviolet Sword
+14027 Black Ultraviolet Sword Seed
+14028 Shadow Soul
+14029 Shadow Soul Seed
 14030 Chest of Wonders
 14031 Chest of Wonders Seed
+14032 Weather Machine - Rainin' Gems
+14033 Weather Machine - Rainin' Gems Seed
+14034 Black Calavera Skull
+14035 Black Calavera Skull Seed
+14036 Derpy Black Box Pet
+14037 Derpy Black Box Pet Seed
+14038 Edgy Anime Robe
+14039 Edgy Anime Robe Seed
+14040 Grow Daft Helmet
+14041 Grow Daft Helmet Seed
+14042 Sale Television
+14043 Sale Television Seed
+14044 Vortex Skirt
+14045 Vortex Skirt Seed
+14046 Feathered Polearm
+14047 Feathered Polearm Seed
+14048 Floating Throne
+14049 Floating Throne Seed
+14050 Band Leader's Baton
+14051 Band Leader's Baton Seed
+14052 Feathered Scarf
+14053 Feathered Scarf Seed
+14054 Marching Band Hat
+14055 Marching Band Hat Seed
+14056 Marching Band Jacket
+14057 Marching Band Jacket Seed
+14058 Marching Band Pants
+14059 Marching Band Pants Seed
+14060 Pie Crust Wallpaper
+14061 Pie Crust Wallpaper Seed
+14062 Turkey Crest Mohawke
+14063 Turkey Crest Mohawke Seed
+14064 Turkey Dinner Flag
+14065 Turkey Dinner Flag Seed
+14066 Turkey Fish Leash
+14067 Turkey Fish Leash Seed
+14068 Beastformer!
+14069 Beastformer! Seed
+14070 Royal Beastformer!
+14071 Royal Beastformer! Seed
+14072 null_item14072
+14073 null_item14072 Seed
+14074 Traditional Thawb
+14075 Traditional Thawb Seed
+14076 null_item14076
+14077 null_item14076 Seed
+14078 null_item14078
+14079 null_item14078 Seed
+14080 Diamond Moyaimorph
+14081 Diamond Moyaimorph Seed
+14082 null_item14082
+14083 null_item14082 Seed
+14084 null_item14084
+14085 null_item14084 Seed
+14086 null_item14086
+14087 null_item14086 Seed
+14088 null_item14088
+14089 null_item14088 Seed
+14090 null_item14090
+14091 null_item14090 Seed
+14092 null_item14092
+14093 null_item14092 Seed
+14094 null_item14094
+14095 null_item14094 Seed
+14096 null_item14096
+14097 null_item14096 Seed
+14098 null_item14098
+14099 null_item14098 Seed
+14100 null_item14100
+14101 null_item14100 Seed
+14102 null_item14102
+14103 null_item14102 Seed
+14104 null_item14104
+14105 null_item14104 Seed
+14106 null_item14106
+14107 null_item14106 Seed
+14108 Three French Hen
+14109 Three French Hen Seed
+14110 null_item14110
+14111 null_item14110 Seed
+14112 null_item14112
+14113 null_item14112 Seed
+14114 null_item14114
+14115 null_item14114 Seed
+14116 null_item14116
+14117 null_item14116 Seed
+14118 null_item14118
+14119 null_item14118 Seed
+14120 null_item14120
+14121 null_item14120 Seed
+14122 null_item14122
+14123 null_item14122 Seed
+14124 null_item14124
+14125 null_item14124 Seed
+14126 null_item14126
+14127 null_item14126 Seed
+14128 Diamond Celtic Wheel
+14129 Diamond Celtic Wheel Seed
+14130 Diamond Decorative Shrine
+14131 Diamond Decorative Shrine Seed
+14132 Diamond Deggcorations
+14133 Diamond Deggcorations Seed
+14134 Diamond Loop of Fruits
+14135 Diamond Loop of Fruits Seed
+14136 Diamond Maneki-neko
+14137 Diamond Maneki-neko Seed
+14138 Winterfest Calendar - 2023
+14139 Winterfest Calendar - 2023 Seed
+14140 Used Winterfest Calendar - 2023
+14141 Used Winterfest Calendar - 2023 Seed

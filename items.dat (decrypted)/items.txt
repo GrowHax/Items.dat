@@ -1,8 +1,6 @@
-## Date: 12/2/2023 ##
+## Date: 12/31/2023 ##
 ####### Decrypted/Formatted by Yuhkil ########
-########## Version 4.43 Items.dat ##########
-
-
+########## Version 4.45 Items.dat ##########
 
 0 Blank
 1 Blank Seed
@@ -14076,62 +14074,62 @@
 14069 Beastformer! Seed
 14070 Royal Beastformer!
 14071 Royal Beastformer! Seed
-14072 null_item14072
-14073 null_item14072 Seed
+14072 Axe of Ragnarok
+14073 Axe of Ragnarok Seed
 14074 Traditional Thawb
 14075 Traditional Thawb Seed
-14076 null_item14076
-14077 null_item14076 Seed
-14078 null_item14078
-14079 null_item14078 Seed
+14076 Chilled Chucks
+14077 Chilled Chucks Seed
+14078 Crown of S'mores
+14079 Crown of S'mores Seed
 14080 Diamond Moyaimorph
 14081 Diamond Moyaimorph Seed
-14082 null_item14082
-14083 null_item14082 Seed
+14082 Freeze Ray
+14083 Freeze Ray Seed
 14084 null_item14084
 14085 null_item14084 Seed
-14086 null_item14086
-14087 null_item14086 Seed
-14088 null_item14088
-14089 null_item14088 Seed
+14086 Infinity Aura
+14087 Infinity Aura Seed
+14088 Mantle of Deepest Winter
+14089 Mantle of Deepest Winter Seed
 14090 null_item14090
 14091 null_item14090 Seed
-14092 null_item14092
-14093 null_item14092 Seed
-14094 null_item14094
-14095 null_item14094 Seed
-14096 null_item14096
-14097 null_item14096 Seed
-14098 null_item14098
-14099 null_item14098 Seed
-14100 null_item14100
-14101 null_item14100 Seed
-14102 null_item14102
-14103 null_item14102 Seed
-14104 null_item14104
-14105 null_item14104 Seed
-14106 null_item14106
-14107 null_item14106 Seed
+14092 Snowglobe Staff
+14093 Snowglobe Staff Seed
+14094 Weather Machine - Holiday Haven
+14095 Weather Machine - Holiday Haven Seed
+14096 Bauble Buntings
+14097 Bauble Buntings Seed
+14098 Big Bauble
+14099 Big Bauble Seed
+14100 Carol Mutton Chops
+14101 Carol Mutton Chops Seed
+14102 Ghost of WinterFest Present Robe
+14103 Ghost of WinterFest Present Robe Seed
+14104 Ice King's Crown
+14105 Ice King's Crown Seed
+14106 Santa's Spectacles
+14107 Santa's Spectacles Seed
 14108 Three French Hen
 14109 Three French Hen Seed
-14110 null_item14110
-14111 null_item14110 Seed
-14112 null_item14112
-14113 null_item14112 Seed
-14114 null_item14114
-14115 null_item14114 Seed
-14116 null_item14116
-14117 null_item14116 Seed
-14118 null_item14118
-14119 null_item14118 Seed
-14120 null_item14120
-14121 null_item14120 Seed
-14122 null_item14122
-14123 null_item14122 Seed
-14124 null_item14124
-14125 null_item14124 Seed
-14126 null_item14126
-14127 null_item14126 Seed
+14110 WinterFest Garland
+14111 WinterFest Garland Seed
+14112 WinterFest Royal Hair
+14113 WinterFest Royal Hair Seed
+14114 WinterFest Royal Pants
+14115 WinterFest Royal Pants Seed
+14116 WinterFest Royal Shawl
+14117 WinterFest Royal Shawl Seed
+14118 WinterFest Royal Shirt
+14119 WinterFest Royal Shirt Seed
+14120 WinterFest Royal Shoes
+14121 WinterFest Royal Shoes Seed
+14122 WinterFest Royal Skirt
+14123 WinterFest Royal Skirt Seed
+14124 WinterFest Royal Suit
+14125 WinterFest Royal Suit Seed
+14126 WinterFest Royal Twintails
+14127 WinterFest Royal Twintails Seed
 14128 Diamond Celtic Wheel
 14129 Diamond Celtic Wheel Seed
 14130 Diamond Decorative Shrine
@@ -14146,3 +14144,7 @@
 14139 Winterfest Calendar - 2023 Seed
 14140 Used Winterfest Calendar - 2023
 14141 Used Winterfest Calendar - 2023 Seed
+14142 Snowglobe Head
+14143 Snowglobe Head Seed
+14144 Sparkling Sticks
+14145 Sparkling Sticks Seed
